@@ -12,13 +12,24 @@
 
 ### Functional requirements
 
-1. **RFN1**: Authenticate to the system. 
-2. **RFN2**: Register in the system.
-3. **RFN3**: System validation.
-4. **RFN4**: Registration of contacts in the system.
-5. **RFN5**: Register schedule categories.
-6. **RFN6**: Basic information.
-7. **RFN7**: Send and receive text messages in real time.
-8. **RFN8**: Create personalized chat rooms.
-9. **RFN9**: Notification to the user.
-10. **RFN10**: Chat moderation.
+1.  **RFN1:** Authenticate in the system. ---> 1.0
+2.  **RFN2:** Log into the system. ---> 1.0
+3.  **RFN3:** Validation in the system. ---> 1.0
+4.  **RFN4:** Registration of contacts in the system. ---> 2.0
+5.  **RFN5:** Register schedule categories. ---> 2.0
+6.  **RFN6:** Basic information. ---> 3.0
+7.  **RFN7:** Send and receive text messages in real time. ---> 1.0
+8.  **RFN8:** Create customized chat rooms. ---> 2.0
+9.  **RFN9:** User notification. ---> 1.0
+10.  **RFN10:** Chat moderation. ---> 3.0
+
+### Non-functional requirements
+
+1. **RNF01:** Prototype Compatibility. --> 1.0
+2. **RNF02:** Portability. --> 2.0
+3. **RNF03:** Intuitive interface. --> 1.0
+4. **RNF04:** Pleasant and simple visual design. --> 2.0
+5. **RNF05:** Accessibility. --> 1.0
+6. **RNF06:** Customization. --> 3.0
+7. **RNF07:** Language. --> 3.0
+8. **RNF08:** configuration. --> 2.0
