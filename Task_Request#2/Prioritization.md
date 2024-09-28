@@ -5,10 +5,10 @@
     - They are those that the project needs in an indispensable way. Without them, the system or project will not function properly.
       
 - Recommended requirements (2.0):
-- These are features that, although not mandatory, are not required by the project.
+    - These are features that, although not mandatory, are not required by the project.
 
 - Optional Requirements (3.0):
-- These are extras or enhancements that can be removed without compromising the basic operation of the system or project.
+    - These are extras or enhancements that can be removed without compromising the basic operation of the system or project.
 
 ### Functional requirements
 
