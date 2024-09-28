@@ -1,15 +1,14 @@
 > # Prioritization levels
 > The priority levels used to rank the relevance of each requirement.
 ## Ranking
-- Fundamental Requirements (1.0):** **
-    
+- Fundamental Requirements (1.0):
     - They are those that the project needs in an indispensable way. Without them, the system or project will not function properly.
-- Recommended requirements (2.0):** ** These are features that, although not mandatory, are not required by the project.
-    
-    - These are features that, although not mandatory, provide improvements to the functionality, user experience or efficiency of the system.
-- Optional Requirements (3.0):** ** Optional Requirements (3.0):** Optional Requirements (3.0):** Optional Requirements (3.0)
-    
-    - These are extras or enhancements that can be removed without compromising the basic operation of the system or project.
+      
+- Recommended requirements (2.0):
+- These are features that, although not mandatory, are not required by the project.
+
+- Optional Requirements (3.0):
+- These are extras or enhancements that can be removed without compromising the basic operation of the system or project.
 
 ### Functional requirements
 
