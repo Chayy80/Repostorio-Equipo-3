@@ -1,4 +1,4 @@
-> Prioritization levels
+> # Prioritization levels
 > The priority levels used to rank the relevance of each requirement.
 ## Ranking
 - Fundamental Requirements (1.0):** **
@@ -13,13 +13,13 @@
 
 ### Functional requirements
 
-1.  **RFN1**: Authenticate to the system. 
-2.  2. **RFN2**: Register in the system.
-3.  3. **RFN3**: System validation.
-4.  4. **RFN4**: Registration of contacts in the system.
-5.  **RFN5**: Register schedule categories.
-6.  **RFN6**: Basic information.
-7.  7. **RFN7**: Send and receive text messages in real time.
-8.  8. **RFN8**: Create personalized chat rooms.
-9.  **RFN9**: Notification to the user.
-10.  **RFN10**: Chat moderation.
+1. **RFN1**: Authenticate to the system. 
+2. **RFN2**: Register in the system.
+3. **RFN3**: System validation.
+4. **RFN4**: Registration of contacts in the system.
+5. **RFN5**: Register schedule categories.
+6. **RFN6**: Basic information.
+7. **RFN7**: Send and receive text messages in real time.
+8. **RFN8**: Create personalized chat rooms.
+9. **RFN9**: Notification to the user.
+10. **RFN10**: Chat moderation.
