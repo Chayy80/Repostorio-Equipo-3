@@ -34,7 +34,7 @@
  - El sistema debe permitir el cambio de idioma entre español e inglés
    para mejorar la accesibilidad de los usuarios.
 
-## *9. Configuración de Notificaciones.
+## *9. Configuración de Notificaciones.*
  - El sistema debe ofrecer opciones de configuración de notificaciones
    para que los usuarios decidan cómo y cuándo recibir alertas de nuevos
    mensajes.
