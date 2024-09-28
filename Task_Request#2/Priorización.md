@@ -26,3 +26,14 @@
 8.  **RFN8**: Crear salas de chat personalizadas. ---> 2.0
 9.  **RFN9**: Notificación al usuario. ---> 1.0
 10.  **RFN10**: Moderación del chat. ---> 3.0
+
+### Requerimientos no funcionales
+
+1. **RNF01:** Compatibilidad del Prototipo. --> 1.0
+2. **RNF02:** Portabilidad. --> 2.0
+3. **RNF03:** Interfaz intuitiva. --> 1.0
+4. **RNF04:** Diseño visual agradable y sencillo. --> 2.0
+5. **RNF05:** Accesibilidad. --> 1.0
+6. **RNF06:** Personalización. --> 3.0
+7. **RNF07:** Idioma. --> 3.0
+8. **RNF08:** configuración. --> 2.0
