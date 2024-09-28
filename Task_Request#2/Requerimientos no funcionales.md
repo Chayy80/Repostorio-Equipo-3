@@ -13,15 +13,15 @@
  - El sistema debe tener una navegación clara y organizada, permitiendo
    un acceso simple y fácil de usar.
 
-## 4. Interfaz de usuario consistente.
+## *4. Interfaz de usuario consistente.*
  - El sistema debe mantener una interfaz de usuario consistente en todas
    las páginas y funcionalidades para facilitar la navegación y el uso.
 
-## 5. Portabilidad.
+## *5. Portabilidad.*
  - El sistema debe ser funcional en dispositivos de baja gama,
    incluyendo celulares, computadoras, laptops y tabletas.
 
-## *6. Diseño visual*
+## *6. Diseño visual.*
  - El sistema debe contar con un diseño visual agradable y sencillo,
    utilizando colores suaves y tipografías legibles para mejorar la
    experiencia de usuario.
