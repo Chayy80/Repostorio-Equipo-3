@@ -10,7 +10,7 @@
  - Como nuevo usuario, quiero verificar mi correo electrónico después de
    registrarme, para asegurarme de que mi cuenta este activa y segura.
 
-## *3. Inicio de sesión:*
+## *3. Inicio de sesión.*
  - Como usuario registrado, quiero iniciar sesión en el sistema
    utilizando mi correo electrónico y contraseña, para acceder a la
    página.
