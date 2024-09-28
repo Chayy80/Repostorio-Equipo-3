@@ -16,13 +16,13 @@
 
 ### Requerimientos funcionales
 
-1.  **RFN1**: Autenticarse en el sistema. 
-2.  **RFN2**: Registro en el sistema.
-3.  **RFN3**: Validación en el sistema.
-4.  **RFN4**: Registro de contactos en el sistema.
-5.  **RFN5**: Registrar categorías de horarios.
-6.  **RFN6**: Información básica.
-7.  **RFN7**: Enviar y recibir mensajes de texto en tiempo real.
-8.  **RFN8**: Crear salas de chat personalizadas.
-9.  **RFN9**: Notificación al usuario
-10.  **RFN10**: Moderación del chat
+1.  **RFN1**: Autenticarse en el sistema. ---> 1.0
+2.  **RFN2**: Registro en el sistema. ---> 1.0
+3.  **RFN3**: Validación en el sistema. ---> 1.0
+4.  **RFN4**: Registro de contactos en el sistema. ---> 2.0
+5.  **RFN5**: Registrar categorías de horarios. ---> 2.0
+6.  **RFN6**: Información básica. ---> 3.0
+7.  **RFN7**: Enviar y recibir mensajes de texto en tiempo real. ---> 1.0
+8.  **RFN8**: Crear salas de chat personalizadas. ---> 2.0
+9.  **RFN9**: Notificación al usuario. ---> 1.0
+10.  **RFN10**: Moderación del chat. ---> 3.0
