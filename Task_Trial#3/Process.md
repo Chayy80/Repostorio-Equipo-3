@@ -4,11 +4,11 @@
 En este repositorio alberga toda la planificación de nuestro proyecto "Prototipo" el cual lo realiza un equipo conformado hasta la fecha de 6 integrantes los cuales cumplen ciertas tareas y roles en el proyecto
 
  - Jesus Israel Leon Chay.  Coordinador
- - Fabio Leonardo Gonzalez Alcocer. 
+ - Fabio Leonardo Gonzalez Alcocer. Evaluador
  - Andrea Ruby Medina Pacheco. Especialista
- - Luis Enrique Calan Cruz. 
+ - Luis Enrique Calan Cruz. Finalizador
  - Nicolas Israel Canul Duran. Cohesionador
- - Harold Armando Moo Cocom. 
+ - Harold Armando Moo Cocom. Impulsor
 
 Cada rol fue asignado a cada integrante por sus soft-skill principalmente (esto se detalla mas en la seccion [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) y tomando como base la filosofia del modelo Belbin en la cual se asigno un rol especifico que explicaremos a continuación
 
