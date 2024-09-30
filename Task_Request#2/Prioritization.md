@@ -36,7 +36,7 @@
 4. **RNF04:** Consistent user interface. --> [2.0]
 5. **RNF05:** Portability. --> [1.0]
 6. **RNF06:** Visual design. --> [2.0]
-7. **RNF07:** Personalization. --> [3.0] 8.
+7. **RNF07:** Personalization. --> [3.0]
 8. **RNF08:** Multilingualism. --> [2.0]
 9. **RNF09:** Notifications Configuration. --> [2.0]
 10. **RNF010:** Error Response. --> [3.0]
