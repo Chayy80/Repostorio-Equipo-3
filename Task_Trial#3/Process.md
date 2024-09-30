@@ -10,9 +10,7 @@ En este repositorio alberga toda la planificación de nuestro proyecto "Prototip
  - Nicolas Israel Canul Duran. Cohesionador
  - Harold Armando Moo Cocom. Impulsor
 
-Cada rol fue asignado a cada integrante por sus soft-skill principalmente (esto se detalla mas en la seccion [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) y tomando como base la filosofia del modelo Belbin en la cual se asigno un rol especifico que explicaremos a continuación
-
-
+Cada rol fue asignado a cada integrante por sus soft-skill principalmente (esto se detalla mas en la seccion [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) y tomando como base la filosofia del modelo Belbin.
 
 ## Organización del repositorio
 El repositorio esta conformado por varios ramas, ahorita detallaremos de cada uno de ellas:
