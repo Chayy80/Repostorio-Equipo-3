@@ -12,6 +12,22 @@ En este repositorio alberga toda la planificación de nuestro proyecto "Prototip
 
 Cada rol fue asignado a cada integrante por sus soft-skill principalmente (esto se detalla mas en la seccion [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) y tomando como base la filosofia del modelo Belbin.
 
+
+```mermaid
+graph TD;
+    A[Belbin Method] --> B[Coordinator];
+    A --> D[Plant];
+    A --> E[Completer];
+    A --> F[Teamworker];
+    A --> G[Evaluator];
+    A --> H[Specialist];
+    
+    B --> B1[Jesus Israel Leon Chay];
+    E --> E1[Luis Enrique Calan Cruz];
+	H --> H1[Andrea Ruby Medina Pacheco]
+    D --> D1[Harold Armando Moo Cocom];
+    G --> G1[Fabio Leonardo Gonzalez Alcocer];
+    F --> F1[Nicolas Israel Canul Duran];
 ## Organización del repositorio
 El repositorio esta conformado por varios ramas, ahorita detallaremos de cada uno de ellas:
 
