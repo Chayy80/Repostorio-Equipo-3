@@ -28,6 +28,8 @@ graph TD;
     D --> D1[Harold Armando Moo Cocom];
     G --> G1[Fabio Leonardo Gonzalez Alcocer];
     F --> F1[Nicolas Israel Canul Duran];
+```
+
 ## Organización del repositorio
 El repositorio esta conformado por varios ramas, ahorita detallaremos de cada uno de ellas:
 
