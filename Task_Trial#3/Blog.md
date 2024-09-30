@@ -1,4 +1,4 @@
-
+This is our blog about the dates and houres of reunion that we have in this phase
 
 | Date | Modality | Hour | Reason |
 | :---- | :---- | :---- | :---- |
