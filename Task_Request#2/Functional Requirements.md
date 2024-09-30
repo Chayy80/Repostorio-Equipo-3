@@ -51,3 +51,9 @@
    exchanged files so I can access them at any time for future
    reference.
 
+### *13. Schedule categories registration and modification:*
+As a user, i want to register and modify the subjects in my school schedule to keep my academic planning updated and organized.
+
+### *14. Curriculum visualization:*
+As a student, I want to visualize the curriculum of my degree program to better understand the courses I need to take and plan my academic trajectory.
+
