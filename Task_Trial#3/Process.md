@@ -1,17 +1,17 @@
-# Proceso de trabajo
+# Work Process
 
-## Presentacion 
-En este repositorio alberga toda la planificación de nuestro proyecto "Prototipo" el cual lo realiza un equipo conformado hasta la fecha de 6 integrantes los cuales cumplen ciertas tareas y roles en el proyecto
+## Presentation
 
- - Jesus Israel Leon Chay.  Coordinador
- - Fabio Leonardo Gonzalez Alcocer. Evaluador
- - Andrea Ruby Medina Pacheco. Especialista
- - Luis Enrique Calan Cruz. Finalizador
- - Nicolas Israel Canul Duran. Cohesionador
- - Harold Armando Moo Cocom. Impulsor
+This repository houses all the planning for our project "Prototype," which is carried out by a team currently consisting of 6 members who perform certain tasks and roles in the project:
 
-Cada rol fue asignado a cada integrante por sus soft-skill principalmente (esto se detalla mas en la seccion [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) y tomando como base la filosofia del modelo Belbin.
+-   Jesus Israel Leon Chay. Coordinator
+-   Fabio Leonardo Gonzalez Alcocer. Evaluator
+-   Andrea Ruby Medina Pacheco. Specialist
+-   Luis Enrique Calan Cruz. Completer
+-   Nicolas Israel Canul Duran. Teamworker
+-   Harold Armando Moo Cocom. Plant
 
+Each role was assigned to each member primarily based on their soft skills (this is detailed more in the section [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) and following the philosophy of the Belbin model.
 
 ```mermaid
 graph TD;
@@ -29,41 +29,47 @@ graph TD;
     G --> G1[Fabio Leonardo Gonzalez Alcocer];
     F --> F1[Nicolas Israel Canul Duran];
 ```
+## Repository Organization
 
-## Organización del repositorio
-El repositorio esta conformado por varios ramas, ahorita detallaremos de cada uno de ellas:
+The repository consists of several branches, which we will detail below:
 
- 1. [main](https://github.com/Chayy80/Repostorio-Equipo-3): Esta es el branch generado por defecto y el principal en el repositorio (no tendra contenido hasta el final de este proyecto)
- 2. [FIS_#1_ProjectMA](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_#1_ProjectMA): Es el branch donde se tendra todo el contenido finalizado y revisado. Se usara para las entregas correspondientes.
- 3. [FIS_#1_Project_Testing&Overture](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_Project_Testing%26Overtures): Es el branch de prueba donde todos los integrantes pondran sus actividades y asignaran sus "pull requests" a prueba, es un branch casi espejo del anterior con el objetivo de experimentar con el sin verse afectado el branch de entregas a futuro y evitar errores.
- 4. FIS#1_PB_****: Este son los branches personales, se identifican por la palabra PB (Personal Branch) y el nombre del colaborador que le pertenezca. En estos cada uno hace su trabajo y asignaciones correspondientes.
- 
- Cada una de estas ramas estan conformadas por sus respectivas carpetas que inician con el nombre "Task" mas los Readme de cada branch en el cual se explica ahi mismo de que trata ese branch.
- 
+1.  [main](https://github.com/Chayy80/Repostorio-Equipo-3): This is the default and main branch in the repository (it will not contain content until the end of this project).
+2.  [FIS_#1_ProjectMA](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_#1_ProjectMA): This is the branch where all finalized and reviewed content will be stored. It will be used for the corresponding submissions.
+3.  [FIS_#1_Project_Testing&Overture](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_Project_Testing%26Overtures): This is the testing branch where all team members will place their activities and assign their "pull requests" for testing. It is almost a mirror of the previous branch, intended for experimentation without affecting the submission branch and avoiding errors.
+4.  FIS#1_PB_****: These are the personal branches, identified by the term PB (Personal Branch) and the name of the collaborator to whom it belongs. Each member does their work and assignments here.
 
-##### *~~PD 1~~ es solo un branch para la entrega de una tarea, no forma parte esencial del proyecto.
-## Actividades y asignaciones
-Cada colaborador se le fue asignado un numero personalizado de tareas dependiendo de sus capacidades y disponibilidad de tiempo, con el afan de que todo el proyecto se termine en tiempo y forma. Las tareas asignadas fueron:
+Each of these branches contains their respective folders, starting with the name "Task," plus the Readme of each branch, which explains the purpose of that branch.
 
-1. Describir nuestro producto
-2. Identificar y definir nuestros usuarios/clientes
-3. Redactar nuestra propuesta de valor sobre nuestro producto a comparacion del resto
-4. Definir los requisitos funcionales/historias de usuarios
-5. Definir los requisitos no funcionales
-6. Asignar una prioridad cada requisito
-7. Creacion de artefactos que ilustren los requisitos 
-8. Describir el proceso de realizacion del proyecto
-9. Gestion del proyecto con la revision de la realizacion de cada tarea
-10. Asignar una metrica de contribucion individual
-11. Organizacion del repositorio
-12. Documentacion del repositorio
-13.  Realizar una presentacion sobre el proyecto
-14.  Grabar la presentacion 
-15.  Editar el video de la presentacion para su refinamiento
-16.   Definir las competencias genericas
-17.  Definir las competencias especificas
-## Reuniones 
-Se concretaron que las reuniones se harian de manera mixta (presencial o virtual), para las presenciales se realizaron especificamente cada viernes de 9 a 10:30 mas el lunes 30 de octubre que es la fecha final de entrega de esta fase, y las virtuales se utilizo Discord donde se realizaron en dias acordados, para mas informacion consultar in the [blog](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS#1_PB_CHAY/Task_Trial#3/Blog.md)
-## Metrica de Contribucion Individual 
-Despues de haber establecido los roles, las tareas por realizar y fichar las fechas para las reuniones en la bitacora , se dividieron los trabajos para que asi cada persona realize tareas individual o conjuntamente con otros colaboradores (Mas detalle en nuestro proyecto de GitHub [FIS_Project](https://github.com/users/Chayy80/projects/1) ). Los colaboradores realizaron sus 3 actividades en tiempo y forma a la par de mostrarse activos en el proyecto, esto con el objetivo de obtener el 100% de calificacion de esta entrega, no se presento ningun incoveniente en esta fase pero si se presentara alguno se aboradara en una de las reuniones presenciales o virtuales las medidas a tomar y entre todo el equipo se le advertira o asignara la amonestacion adecuada.
- Esto se hace debido a que nos adaptamos a las circustancias de cada colaborador y para no basarnos en una metrica poco flexible, casos como la entrega de la tarea solo por un minimo tiempo de atraso no se ve adecuado que se reduzca porcentaje de la calificacion, lo mas se llamara la atencion para que sea mas cuidadoso en ese aspecto y no vuelva a ocurrir, si sucediera entonces ahi se tomarian cartas en el asunto.
+##### *PD 1 is just a branch for submitting a task and is not an essential part of the project.
+
+## Activities and Assignments
+
+Each collaborator was assigned a personalized number of tasks depending on their skills and availability, with the goal of completing the project on time. The assigned tasks were:
+
+1.  Describe our product
+2.  Identify and define our users/customers
+3.  Draft our value proposition compared to the rest
+4.  Define functional requirements/user stories
+5.  Define non-functional requirements
+6.  Assign a priority to each requirement
+7.  Create artifacts that illustrate the requirements
+8.  Describe the project development process
+9.  Project management with task review
+10.  Assign an individual contribution metric
+11.  Repository organization
+12.  Repository documentation
+13.  Create a presentation about the project
+14.  Record the presentation
+15.  Edit the presentation video for refinement
+16.  Define generic competencies
+17.  Define specific competencies
+
+## Meetings
+
+It was agreed that meetings would be held in a mixed format (in-person or virtual). In-person meetings were held every Friday from 9 to 10:30, with the final meeting on Monday, October 30, which is the final submission date for this phase. Virtual meetings were held on Discord on agreed-upon days. For more information, consult the [blog](https://github.com/users/Chayy80/projects/1).
+
+## Individual Contribution Metric
+
+After establishing the roles, the tasks to be completed, and scheduling the meetings in the log, the work was divided so that each person could complete tasks individually or in collaboration with others (more details in our GitHub project [FIS_Project](https://github.com/users/Chayy80/projects/1)). The collaborators completed their three activities on time and remained active in the project, aiming to achieve a 100% score for this submission. No issues arose in this phase, but if any should arise, they will be addressed in one of the in-person or virtual meetings, and appropriate measures will be taken by the team.
+
+This approach is adopted to accommodate the circumstances of each collaborator and avoid using a rigid metric. In cases like a slight delay in submitting a task, it is not deemed appropriate to reduce the score percentage; instead, the collaborator will be warned to be more careful in the future. If it happens again, more serious measures will be taken.
