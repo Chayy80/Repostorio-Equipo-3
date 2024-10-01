@@ -30,4 +30,3 @@ To develop a technological solution that allows students and tutors to interact 
 - **Task_Scope#5**: Outlines the project's scope and any limitations or extensions considered throughout the project lifecycle.
 - **Task_PA#4**: Focuses on the process and methods used in project development, including team roles, responsibilities, and the use of agile methodologies.
 - **Resources & Assets**: Houses all the external resources, assets, and additional documentation used during project development.
-- **README.md**: The main document providing an overview of the project, including the vision, mission, objective, and this table of contents.
