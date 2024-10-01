@@ -17,7 +17,7 @@ To develop a technological solution that allows students and tutors to interact 
 
 ## **Table of Contents**
 1. [Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/TaskProduct%231)
-2. [Functional and Non-Functional Requirements](./Task_Request%232)
+2. [Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Request%232)
 3. [Testing and Trials](./Task_Trial%233)
 4. [Scope of the Project](./Task_Scope%235)
 5. [Project Process Overview](./Task_PA%234)
