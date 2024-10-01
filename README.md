@@ -18,10 +18,10 @@ To develop a technological solution that allows students and tutors to interact 
 ## **Table of Contents**
 1. [Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/TaskProduct%231)
 2. [Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Request%232)
-3. [Testing and Trials](./Task_Trial%233)
-4. [Scope of the Project](./Task_Scope%235)
-5. [Project Process Overview](./Task_PA%234)
-6. [Resources and Assets](./Resources%20&%20Assets)
+3. [Process](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Trial%233)
+4. [Preview Presentation](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_PA%234)
+5. [Generic Competencies and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)
+6. [Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)
 
 ## **Directories and Files**
 - **Task_Product#1**: Contains detailed descriptions of the product, including its objectives, user profiles, and value proposition.
