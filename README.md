@@ -24,9 +24,15 @@ To develop a technological solution that allows students and tutors to interact 
 6. [Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)
 
 ## **Directories and Files**
-- **Task_Product#1**: Contains detailed descriptions of the product, including its objectives, user profiles, and value proposition.
-- **Task_Request#2**: Includes the functional and non-functional requirements, along with the prioritization and validation methods used.
-- **Task_Trial#3**: Documenting the trials and testing phases, showing the steps taken and results obtained.
-- **Task_Scope#5**: Outlines the project's scope and any limitations or extensions considered throughout the project lifecycle.
-- **Task_PA#4**: Focuses on the process and methods used in project development, including team roles, responsibilities, and the use of agile methodologies.
-- **Resources & Assets**: Houses all the external resources, assets, and additional documentation used during project development.
+- **Task_Product#1**:  
+  This folder contains the Product Description.
+- **Task_Request#2**:  
+  This folder holds the Functional and Non-Functional Requirements.
+- **Task_Trial#3**:  
+  This folder contains the Organization of the team.
+- **Task_PA#4**:  
+  This folder includes the Presentation and the Video explaining the repository.
+- **Task_Scope#5**:  
+  This folder documents the Individual Contribution and the skills and abilities we acquired during work.
+- **Resources & Assets**:  
+  This folder includes the visual resources and assets of the project.
