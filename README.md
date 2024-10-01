@@ -16,12 +16,12 @@ To enable efficient communication between students and tutors during the course 
 To develop a technological solution that allows students and tutors to interact clearly and in an organized manner during the course registration process, improving transparency and guidance in academic decision-making.
 
 ## **Table of Contents**
-1. [Product Description](./Task_Product#1)
-2. [Functional and Non-Functional Requirements](./Task_Request#2)
-3. [Testing and Trials](./Task_Trial#3)
-4. [Scope of the Project](./Task_Scope#5)
-5. [Project Process Overview](./Task_PA#4)
-6. [Resources and Assets](./Resources & Assets)
+1. [Product Description](./Task_Product%231)
+2. [Functional and Non-Functional Requirements](./Task_Request%232)
+3. [Testing and Trials](./Task_Trial%233)
+4. [Scope of the Project](./Task_Scope%235)
+5. [Project Process Overview](./Task_PA%234)
+6. [Resources and Assets](./Resources%20&%20Assets)
 
 ## **Directories and Files**
 - **Task_Product#1**: Contains detailed descriptions of the product, including its objectives, user profiles, and value proposition.
