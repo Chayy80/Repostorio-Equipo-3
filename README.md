@@ -77,8 +77,8 @@ For individual or personal branches (e.g., feature development or bug fixes), us
 ### **Numerical Code Assignment**
 Each team member receives a unique code, making it easy to add new members. For example:
 
-1. **FIS#_01** – Nicolás: 
-2. **FIS#_02** – Chay: 
+1. **FIS#_01** – Chay: 
+2. **FIS#_02** – Nicolás: 
 3. **FIS#_03** – Armando: 
 4. **FIS#_04** – Fabio: 
 5. **FIS#_05** – Ruby: 
