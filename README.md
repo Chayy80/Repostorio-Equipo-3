@@ -36,3 +36,55 @@ To develop a technological solution that allows students and tutors to interact 
   This folder documents the Individual Contribution and the skills and abilities we acquired during work.
 - **Resources & Assets**:  
   This folder includes the visual resources and assets of the project.
+
+## **Branch Configuration by Team Member**
+
+Each team member will have a dedicated branch, identified by a unique numerical code to streamline task management and track changes. Below is the format for assigning and organizing each team member's branch.
+
+### **Branch Naming Format**
+Each branch follows the format:  
+`FIS#_[Numerical_Code]_[Task]`
+
+- **FIS#**: Project or module identifier.
+- **Numerical_Code**: A unique numerical code assigned to each team member.
+- **Task**: Short description of the assigned task.
+  
+### **Personal Branch Naming Format**
+For individual or personal branches (e.g., feature development or bug fixes), use the following format:  
+`FIS#_[Numerical_Code]_[PersonalBranch]`
+
+- **FIS#**: Project or module identifier.
+- **Numerical_Code**: The same unique code assigned to each member.
+- **PersonalBranch**: Specifies that it's a personal or experimental branch.
+  
+### **Examples of Assigned Branches**
+
+1. **Nicolás's Branch**  
+   Previous: `FIS#1_PB_NICO`  
+   New: `FIS#_01_PB`
+
+2. **Chay's Branch**  
+   Previous: `FIS#1_PB_CHAY`  
+   New: `FIS#_02_PB`
+
+3. **Armando's Branch**  
+   Previous: `FIS#_PB_ARMANDO`  
+   New: `FIS#_03_PB`
+
+4. **Laura's Branch (New Member)**  
+   New: `FIS#_04_PB`
+
+### **Numerical Code Assignment**
+Each team member receives a unique code, making it easy to add new members. For example:
+
+1. **FIS#_01** – Nicolás: 
+2. **FIS#_02** – Chay: 
+3. **FIS#_03** – Armando: 
+4. **FIS#_04** – Fabio: 
+5. **FIS#_05** – Ruby: 
+6. **FIS#_06** – Luis: 
+
+### **Process for New Members**
+New members will be assigned the next available numerical code. Once their task is defined, a branch will be created using this structure. For example:
+
+- `FIS#_05_NewFeature_Integration`
