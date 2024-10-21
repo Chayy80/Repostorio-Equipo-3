@@ -4,12 +4,12 @@
 
 This repository houses all the planning for our project "Prototype," which is carried out by a team currently consisting of 6 members who perform certain tasks and roles in the project:
 
--   Jesus Israel Leon Chay. Coordinator
--   Fabio Leonardo Gonzalez Alcocer. Evaluator
--   Andrea Ruby Medina Pacheco. Specialist
--   Luis Enrique Calan Cruz. Completer
--   Nicolas Israel Canul Duran. Teamworker
--   Harold Armando Moo Cocom. Plant
+-   Jesus Israel Leon Chay. Product Owner/Scrum Master
+-   Fabio Leonardo Gonzalez Alcocer. Developer
+-   Andrea Ruby Medina Pacheco. Developer
+-   Luis Enrique Calan Cruz. Developer
+-   Nicolas Israel Canul Duran. Developer
+-   Harold Armando Moo Cocom. Developer
 
 Each role was assigned to each member primarily based on their soft skills (this is detailed more in the section [Task_Scope#5](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%231_ProjectMA/Task_Scope%235)) and following the philosophy of the Belbin model.
 
