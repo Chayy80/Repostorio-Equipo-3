@@ -1,6 +1,6 @@
 > # Definition Of Done
 > El DoD define los criterios que cada historia de usuario debe cumplir para considerarse "hecha".
-----------
+
 # Requerimientos funcionales
 
 ### 1.  Registro  en  el  sistema
@@ -13,7 +13,6 @@
  -   Un  mensaje  de  confirmación  se  muestra  al  usuario  tras  el  registro  exitoso.
  -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
  - Documentación  actualizada  y  aprobada.
-
 
 
 ### 2.  Verificación  de  correo  electrónico
@@ -38,7 +37,6 @@
 -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
 -   Documentación  actualizada  y  aprobada.
   
-
 
 ### 4. **Recuperación de contraseña**
 
@@ -71,7 +69,6 @@
 -   Documentación actualizada y aprobada.
 
 
-
 ### 6. **Notificaciones de mensajes nuevos**
 
 **Definition of Done:**
@@ -85,7 +82,8 @@
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
 
-# Requerimientos no funcionales
+
+## Requerimientos no funcionales
 
 ### 1.  Compatibilidad  de  navegadores
 **Definition  of  Done:**
@@ -108,3 +106,18 @@
 -   Pruebas  de  accesibilidad  completadas,  asegurando  conformidad  con  estándares  como  WCAG.
 -   Todos  los  problemas  de  accesibilidad  identificados  se  han  resuelto.
 -   Documentación  actualizada  y  aprobada.
+
+  
+### **3. Portabilidad**
+
+**Definition of Done:**
+
+-   El sistema es accesible y funcional en múltiples plataformas (PC, tabletas, teléfonos inteligentes) sin pérdida significativa de funcionalidad.
+-   La interfaz de usuario se adapta correctamente a diferentes resoluciones de pantalla y tamaños de dispositivos (diseño responsivo).
+-   Las principales funcionalidades (registro, inicio de sesión, mensajería, notificaciones) se mantienen consistentes en navegadores populares (Chrome, Firefox, Safari, Edge) y sus versiones más recientes.
+-   Las aplicaciones nativas (si existen) funcionan correctamente en sistemas operativos comunes (Windows, macOS, Android, iOS).
+-   Se han completado pruebas de compatibilidad en diversos dispositivos y navegadores.
+-   El rendimiento del sistema no se ve comprometido en dispositivos de menor capacidad de procesamiento.
+-   Documentación técnica de portabilidad actualizada y aprobada.
+-   Pruebas de compatibilidad, rendimiento y usabilidad completadas y aprobadas.
+
