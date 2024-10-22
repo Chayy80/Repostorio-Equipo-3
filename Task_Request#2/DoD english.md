@@ -1,4 +1,5 @@
-
+> # Definition Of Done
+> The DoD defines the criteria that each user story must meet to be considered "done."
 ### 1.  Registration  in  the  System
 
 **Definition  of  Done:**
