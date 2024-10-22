@@ -1,6 +1,8 @@
 > # Definition Of Done
 > El DoD define los criterios que cada historia de usuario debe cumplir para considerarse "hecha".
-----------
+
+# Requerimientos funcionales
+
 ### 1.  Registro  en  el  sistema
 **Definition  of  Done:**
  - El  formulario  de  registro  está  desarrollado  y  accesible  en   
@@ -12,7 +14,6 @@
  -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
  - Documentación  actualizada  y  aprobada.
 
-----------
 
 ### 2.  Verificación  de  correo  electrónico
 **Definition  of  Done:**
@@ -23,7 +24,7 @@
 -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
 -   Documentación  actualizada  y  aprobada.
     
-----------
+
 ### 3.  Inicio  de  sesión
 
 **Definition  of  Done:**
@@ -36,7 +37,6 @@
 -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
 -   Documentación  actualizada  y  aprobada.
   
-----------
 
 ### 4. **Recuperación de contraseña**
 
@@ -52,7 +52,7 @@
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
 
-----------
+
 
 ### 5. **Mensajería en tiempo real**
 
@@ -68,7 +68,6 @@
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
 
-----------
 
 ### 6. **Notificaciones de mensajes nuevos**
 
@@ -82,3 +81,43 @@
 -   Pruebas de notificaciones realizadas en distintos navegadores y dispositivos.
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
+
+
+# Requerimientos no funcionales
+
+### 1.  Compatibilidad  de  navegadores
+**Definition  of  Done:**
+
+-   El  sistema  se  ha  probado  en  Google  Chrome  y  otros  navegadores  basados  en  Chromium.
+-   El  sistema  se  ha  probado  en  dispositivos  móviles  con  sistemas  operativos  Android  y  Windows.
+-   Se  han  realizado  pruebas  de  usabilidad  en  todos  los  navegadores  y  sistemas  operativos  especificados.
+-   Se  han  documentado  y  resuelto  todos  los  problemas  de  compatibilidad.
+-   Pruebas  de  regresión  completadas  para  asegurar  que  las  actualizaciones  no  rompan  la  compatibilidad.
+-   Documentación  actualizada  y  aprobada.
+    
+
+### 2.  Accesibilidad
+
+**Definition  of  Done:**
+
+-   El  sistema  es  accesible  desde  navegadores  modernos  sin  necesidad  de  descargar  aplicaciones.
+-   El  sistema  se  ha  probado  en  varios  dispositivos  móviles  para  asegurar  la  accesibilidad.
+-   Se  han  realizado  pruebas  de  rendimiento  para  asegurar  tiempos  de  carga  rápidos  en  dispositivos  móviles.
+-   Pruebas  de  accesibilidad  completadas,  asegurando  conformidad  con  estándares  como  WCAG.
+-   Todos  los  problemas  de  accesibilidad  identificados  se  han  resuelto.
+-   Documentación  actualizada  y  aprobada.
+
+  
+### **3. Portabilidad**
+
+**Definition of Done:**
+
+-   El sistema es accesible y funcional en múltiples plataformas (PC, tabletas, teléfonos inteligentes) sin pérdida significativa de funcionalidad.
+-   La interfaz de usuario se adapta correctamente a diferentes resoluciones de pantalla y tamaños de dispositivos (diseño responsivo).
+-   Las principales funcionalidades (registro, inicio de sesión, mensajería, notificaciones) se mantienen consistentes en navegadores populares (Chrome, Firefox, Safari, Edge) y sus versiones más recientes.
+-   Las aplicaciones nativas (si existen) funcionan correctamente en sistemas operativos comunes (Windows, macOS, Android, iOS).
+-   Se han completado pruebas de compatibilidad en diversos dispositivos y navegadores.
+-   El rendimiento del sistema no se ve comprometido en dispositivos de menor capacidad de procesamiento.
+-   Documentación técnica de portabilidad actualizada y aprobada.
+-   Pruebas de compatibilidad, rendimiento y usabilidad completadas y aprobadas.
+
