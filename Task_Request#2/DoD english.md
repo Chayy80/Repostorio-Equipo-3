@@ -55,7 +55,7 @@
 
 ----------
 
-### 5. **Real-time messaging
+### 5. **Real-time messaging**
 
 **Definition of Done:**
 
@@ -71,7 +71,7 @@
 
 ----------
 
-### 6. **New message notifications.
+### 6. **New message notifications**
 
 **Definition of Done:**
 
