@@ -2,6 +2,8 @@
 > # Definition Of Done
 > The DoD defines the criteria that each user story must meet to be considered “done”.
 ----------
+# Functional requirements
+
 ### 1.  System Logging.
 **Definition of Done:**
  - The registration form is developed and accessible on the registration page.   
@@ -13,7 +15,7 @@
  - Unit and integration tests are completed and approved.
  - Documentation is updated and approved.
 
-----------
+
 
 ### 2.  Email Verification
 **Definition of Done:**
@@ -24,7 +26,7 @@
 - Unit and integration tests are completed and approved.
 - Documentation is updated and approved.
     
-----------
+
 ### 3.  Login
 
 **Definition of Done:**
@@ -37,7 +39,7 @@
 - Unit and integration tests are completed and approved.
 - Documentation is updated and approved.
   
-----------
+
 
 ### 4. **Password Recovery**.
 
@@ -53,7 +55,7 @@
 - Unit and integration tests completed and approved.
 - Documentation updated and approved.
 
-----------
+
 
 ### 5. **Real-time messaging**
 
@@ -69,7 +71,7 @@
 - Unit and integration testing completed and approved.
 - Documentation updated and approved.
 
-----------
+
 
 ### 6. **New message notifications**
 
@@ -83,3 +85,28 @@
 - Testing of notifications performed on different browsers and devices.
 - Unit and integration tests completed and approved.
 - Documentation updated and approved.
+
+# Non functional requirements
+
+### 1.  Browser  Compatibility
+
+**Definition  of  Done:**
+
+-   The  system  has  been  tested  on  Google  Chrome  and  other  Chromium-based  browsers.
+-   The  system  has  been  tested  on  mobile  devices  with  Android  and  Windows  operating  systems.
+-   Usability  testing  has  been  conducted  on  all  specified  browsers  and  operating  systems.
+-   All  compatibility  issues  have  been  documented  and  resolved.
+-   Regression  tests  completed  to  ensure  updates  do  not  break  compatibility.
+-   Documentation  is  updated  and  approved.
+    
+
+### 2.  Accessibility
+
+**Definition  of  Done:**
+
+-   The  system  is  accessible  from  modern  browsers  without  the  need  to  download  applications.
+-   The  system  has  been  tested  on  various  mobile  devices  to  ensure  accessibility.
+-   Performance  tests  have  been  conducted  to  ensure  fast  loading  times  on  mobile  devices.
+-   Accessibility  tests  have  been  completed,  ensuring  compliance  with  standards  such  as  WCAG.
+-   All  identified  accessibility  issues  have  been  resolved.
+-   Documentation  is  updated  and  approved.
