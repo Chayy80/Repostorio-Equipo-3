@@ -83,7 +83,7 @@
 -   Documentación actualizada y aprobada.
 
 
-## Requerimientos no funcionales
+# Requerimientos no funcionales
 
 ### 1.  Compatibilidad  de  navegadores
 **Definition  of  Done:**
