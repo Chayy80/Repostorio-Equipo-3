@@ -110,3 +110,17 @@
 -   Accessibility  tests  have  been  completed,  ensuring  compliance  with  standards  such  as  WCAG.
 -   All  identified  accessibility  issues  have  been  resolved.
 -   Documentation  is  updated  and  approved.
+
+
+### **3. Portability**
+
+**Definition of Done:**
+
+- The system is accessible and functional on multiple platforms (PC, tablets, smartphones) without significant loss of functionality.
+- The user interface adapts correctly to different screen resolutions and device sizes (responsive design).
+- The main functionalities (registration, login, messaging, notifications) remain consistent across popular browsers (Chrome, Firefox, Safari, Edge) and their latest versions.
+- Native applications (if any) work correctly on common operating systems (Windows, macOS, Android, iOS).
+- Compatibility testing has been completed on various devices and browsers.
+- System performance is not compromised on devices with lower processing power.
+- Updated and approved technical portability documentation.
+- Compatibility, performance and usability testing completed and approved.
