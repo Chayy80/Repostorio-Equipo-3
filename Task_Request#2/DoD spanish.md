@@ -38,7 +38,7 @@
   
 ----------
 
-### 4. **Recuperación de contraseña **
+### 4. **Recuperación de contraseña**
 
 **Definition of Done:**
 
