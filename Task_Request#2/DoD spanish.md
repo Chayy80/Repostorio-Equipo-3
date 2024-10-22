@@ -1,6 +1,8 @@
 > # Definition Of Done
 > El DoD define los criterios que cada historia de usuario debe cumplir para considerarse "hecha".
 ----------
+# Requerimientos funcionales
+
 ### 1.  Registro  en  el  sistema
 **Definition  of  Done:**
  - El  formulario  de  registro  está  desarrollado  y  accesible  en   
@@ -82,3 +84,27 @@
 -   Pruebas de notificaciones realizadas en distintos navegadores y dispositivos.
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
+
+# Requerimientos no funcionales
+
+### 1.  Compatibilidad  de  navegadores
+**Definition  of  Done:**
+
+-   El  sistema  se  ha  probado  en  Google  Chrome  y  otros  navegadores  basados  en  Chromium.
+-   El  sistema  se  ha  probado  en  dispositivos  móviles  con  sistemas  operativos  Android  y  Windows.
+-   Se  han  realizado  pruebas  de  usabilidad  en  todos  los  navegadores  y  sistemas  operativos  especificados.
+-   Se  han  documentado  y  resuelto  todos  los  problemas  de  compatibilidad.
+-   Pruebas  de  regresión  completadas  para  asegurar  que  las  actualizaciones  no  rompan  la  compatibilidad.
+-   Documentación  actualizada  y  aprobada.
+    
+
+### 2.  Accesibilidad
+
+**Definition  of  Done:**
+
+-   El  sistema  es  accesible  desde  navegadores  modernos  sin  necesidad  de  descargar  aplicaciones.
+-   El  sistema  se  ha  probado  en  varios  dispositivos  móviles  para  asegurar  la  accesibilidad.
+-   Se  han  realizado  pruebas  de  rendimiento  para  asegurar  tiempos  de  carga  rápidos  en  dispositivos  móviles.
+-   Pruebas  de  accesibilidad  completadas,  asegurando  conformidad  con  estándares  como  WCAG.
+-   Todos  los  problemas  de  accesibilidad  identificados  se  han  resuelto.
+-   Documentación  actualizada  y  aprobada.
