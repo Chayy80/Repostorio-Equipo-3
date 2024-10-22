@@ -12,7 +12,7 @@
  -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
  - Documentación  actualizada  y  aprobada.
 
-----------
+
 
 ### 2.  Verificación  de  correo  electrónico
 **Definition  of  Done:**
@@ -23,7 +23,7 @@
 -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
 -   Documentación  actualizada  y  aprobada.
     
-----------
+
 ### 3.  Inicio  de  sesión
 
 **Definition  of  Done:**
@@ -36,7 +36,7 @@
 -   Pruebas  unitarias  y  de  integración  están  completadas  y  aprobadas.
 -   Documentación  actualizada  y  aprobada.
   
-----------
+
 
 ### 4. **Recuperación de contraseña**
 
@@ -52,7 +52,7 @@
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
 
-----------
+
 
 ### 5. **Mensajería en tiempo real**
 
@@ -68,7 +68,7 @@
 -   Pruebas unitarias y de integración completadas y aprobadas.
 -   Documentación actualizada y aprobada.
 
-----------
+
 
 ### 6. **Notificaciones de mensajes nuevos**
 
