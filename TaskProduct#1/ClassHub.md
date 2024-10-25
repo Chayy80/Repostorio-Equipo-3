@@ -11,7 +11,9 @@ Our value proposition is to offer tutors and students in their first semesters w
 - [ ] That's why with ClassHub, users can send free messaging with text, emojis, documents, create conversation groups, and manage their future schedules.
 - [ ] It has **tools** that will help visualize the structuring of a schedule and a tutorial for loading subjects.
 - [ ] **ClassHub** is compatible for phones and computers, whether low-end.
+
 ![unnamed](https://github.com/user-attachments/assets/d1134fd8-3a90-41d2-b36f-5c40d43a64ec)
+
 Unlike other sites, ClassHub fosters communication between students and tutors and facilitates access to relevant tutoring information in one place.
 > [!IMPORTANT]
 > Only to students and tutors of the first three semesters.
