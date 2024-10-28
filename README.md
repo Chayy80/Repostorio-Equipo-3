@@ -17,25 +17,25 @@ To develop a technological solution that allows students and tutors to interact 
 
 ## **Table of Contents**
 1. **[Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/TaskProduct%231)**  
-   - [ClassHub.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/TaskProduct%231/ClassHub.md)
+   - [ClassHub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/TaskProduct%231/ClassHub.md)
 
 
 2. **[Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Request%232)**  
-   - [Functional requirements.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Functional%20requirements.md)
-   - [Non functional requirements.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Non%20functional%20requirements.md)
-   - [Prioritization.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Prioritization.md)
-   - [Use case diagram.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Use%20case%20diagram.md)
+   - [Functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Functional%20requirements.md)
+   - [Non functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Non%20functional%20requirements.md)
+   - [Prioritization](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Prioritization.md)
+   - [Use case diagram](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Use%20case%20diagram.md)
      
 3. **[Process Organization](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Trial%233)**  
-   - [Blog.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Blog.md)
-   - [Process.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Process.md)
+   - [Blog](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Blog.md)
+   - [Process](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Process.md)
      
 4. **[Preview Presentation](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_PA%234)**  
-   - [Video presentation.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_PA%234/Video%20presentation.md)
+   - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_PA%234/Video%20presentation.md)
 
 5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)**  
-   - [GenericCompetences.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/GenericCompetences.md)
-   - [SpecificCompetencies.md](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/SpecificCompetencies.md)
+   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/GenericCompetences.md)
+   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/SpecificCompetencies.md)
 
 
 6. **[Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)**  
@@ -100,7 +100,7 @@ Each team member receives a unique code, making it easy to add new members. For 
 
 ## **Asignación de Códigos Numéricos**
 
-| Código | Miembro   |
+| Code   | Member    |
 |--------|-----------|
 | FIS#_01 | Chay     |
 | FIS#_02 | Nicolás  |
