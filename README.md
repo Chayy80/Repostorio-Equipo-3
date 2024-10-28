@@ -96,13 +96,20 @@ For individual or personal branches (e.g., feature development or bug fixes), us
 
 ### **Numerical Code Assignment**
 Each team member receives a unique code, making it easy to add new members. For example:
+---
 
-1. **FIS#_01** – Chay: 
-2. **FIS#_02** – Nicolás: 
-3. **FIS#_03** – Armando: 
-4. **FIS#_04** – Fabio: 
-5. **FIS#_05** – Ruby: 
-6. **FIS#_06** – Luis: 
+## **Asignación de Códigos Numéricos**
+
+| Código | Miembro   |
+|--------|-----------|
+| FIS#_01 | Chay     |
+| FIS#_02 | Nicolás  |
+| FIS#_03 | Armando  |
+| FIS#_04 | Laura    |
+| FIS#_05 | Ruby     |
+| FIS#_06 | Luis     |
+
+---
 
 ### **Process for New Members**
 New members will be assigned the next available numerical code. Once their task is defined, a branch will be created using this structure. For example:
