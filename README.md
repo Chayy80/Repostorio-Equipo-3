@@ -98,7 +98,7 @@ For individual or personal branches (e.g., feature development or bug fixes), us
 Each team member receives a unique code, making it easy to add new members. For example:
 ---
 
-## **Asignación de Códigos Numéricos**
+## **Assignment of Numeric Codes**
 
 | Code   | Member    |
 |--------|-----------|
