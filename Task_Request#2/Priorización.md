@@ -1,5 +1,33 @@
-> # Niveles de priorizacion
-> Los niveles de prioridad que se emplean para ordenar la relevancia de cada requisito.
+ # Niveles de priorizacion
+______________________
+## La priorización de los requisitos se estableció con base en los siguientes criterios:
+
+### Requerimientos Fundamentales (1.0):
+
+- **Criterio:** Son esenciales para el funcionamiento del sistema.
+
+- **Argumento:** Sin estos requisitos, el sistema no cumplirá su función básica o no operará correctamente.
+
+- **Ejemplos:** Inicio de sesión, notificaciones de mensajes, accesibilidad.
+### Requerimientos Recomendados (2.0):
+
+- **Criterio:** Mejoran la experiencia del usuario.
+
+- **Argumento:** Aportan valor adicional al sistema, optimizando su funcionalidad y usabilidad.
+
+- **Ejemplos:** Salas de chat por asignaturas, historial de archivos compartidos.
+
+### Requerimientos Opcionales (3.0):
+
+- **Criterio:** Son extras que no afectan el funcionamiento esencial.
+
+- **Argumento:** Estas características pueden ser excluidas sin comprometer la operación básica del sistema.
+
+- **Ejemplos:** Visualización de la malla curricular, diseño visual avanzado.
+
+
+Se decidió la prioridad enfocándose en la necesidad de cada requisito para el funcionamiento, la experiencia de usuario y la posibilidad de prescindir de algunos sin afectar el sistema básico.
+______________________
 ## Clasificación
 -   **Requerimientos fundamentales (1.0):**
     
@@ -32,4 +60,9 @@
 3. **RNF03:** Interfaz de usuario consistente. --> [2.0]
 4. **RNF04:** Portabilidad. --> [1.0]
 5. **RNF05:**  Diseño visual. --> [3.0]
-
+______________________
+| Nivel de Prioridad                     | Criterio                                | Argumento                                                                                      | Ejemplos                                      |
+|----------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| **Requerimientos Fundamentales (1.0)** | Esencial para el funcionamiento         | Sin estos requisitos, el sistema no funcionará de manera adecuada.                             | Inicio de sesión, notificaciones de mensajes, accesibilidad |
+| **Requerimientos Recomendados (2.0)**  | Mejora de la experiencia de usuario     | Aportan valor adicional, optimizando la funcionalidad y la experiencia del usuario.            | Salas de chat por asignaturas, historial de archivos compartidos |
+| **Requerimientos Opcionales (3.0)**    | Extras sin impacto crítico              | Son mejoras que pueden excluirse sin comprometer el funcionamiento básico del sistema.         | Visualización de la malla curricular, diseño visual avanzado |
