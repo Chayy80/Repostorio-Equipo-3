@@ -1,44 +1,64 @@
-> # Prioritization levels
-> The priority levels used to rank the relevance of each requirement.
-## Ranking
-- Fundamental Requirements (1.0):
-    - They are those that the project needs in an indispensable way. Without them, the system or project will not function properly.
-      
-- Recommended requirements (2.0):
-    - These are features that, although not mandatory, are not required by the project.
+# Prioritization Levels
+______________________
 
-- Optional Requirements (3.0):
-    - These are extras or enhancements that can be removed without compromising the basic operation of the system or project.
+## Requirements prioritization is based on the following criteria:
 
-### Functional requirements
+### Fundamental Requirements (1.0):
 
-1.  **RFN1**: Registration in the system. ---> [1.0]
-2.  **RFN2**: E-mail verification. ---> [1.0]
-3.  **RFN3**: Login. ---> [1.0]
-4.  **RFN4**: Registration of basic information. ---> [2.0]
-5.  **RFN5**: Profile update. ---> [2.0]
-6.  **RFN6**: Password recovery. ---> [1.0]
-7.  **RFN7**: Registration of contacts in the system. ---> [3.0]
-8.  **RFN8**: Real time messaging. ---> [1.0]
-9.  **RFN9**: Chat rooms by subjects or topics. ---> [2.0]
-10.  **RFN10**: Notifications of new messages. ---> [1.0]
-11.  **RFN11**: Chat group moderation by tutors. ---> [3.0]
-12.  **RFN12**: Query history and file sharing. ---> [2.0]
-13.  **RFN13**: Registration and modification of schedule categories. ---> [2.0]
-14.  **RFN14**: Visualization of the curriculum. ---> [3.0]
+- **Criterion:** Essential for the system to function.
+- **Argument:** Without these requirements, the system will not fulfill its basic function or operate correctly.
+- **Examples:** Login, message notifications, accessibility.
 
+### Recommended Requirements (2.0):
 
-### Non-functional requirements
+- **Criterion:** Improve the user experience.
+- **Argument:** Add extra value to the system by optimizing its functionality and usability.
+- **Examples:** Subject-based chat rooms, history of shared files.
 
-1. **RNF01:** Browser compatibility --> [1.0]
-2. **RNF02:** Accessibility. --> [1.0]
-3. **RNF03:** Easy accessibility. --> [2.0]
-4. **RNF04:** Consistent user interface. --> [2.0]
-5. **RNF05:** Portability. --> [1.0]
-6. **RNF06:** Visual design. --> [2.0]
-7. **RNF07:** Personalization. --> [3.0]
-8. **RNF08:** Multilingualism. --> [2.0]
-9. **RNF09:** Notifications Configuration. --> [2.0]
-10. **RNF010:** Error Response. --> [3.0]
-11. **RNF011:** Modularity. --> [3.0]
-12. **RNF012:** Adaptive interface. --> [2.0]
+### Optional Requirements (3.0):
+
+- **Criterion:** Extras that do not affect essential functionality.
+- **Argument:** These features can be excluded without compromising the system’s basic operation.
+- **Examples:** Curriculum view, advanced visual design.
+
+The prioritization was decided by focusing on each requirement’s necessity for functionality, user experience, and the possibility of omitting some features without affecting the basic system.
+______________________
+
+## Classification
+
+- **Fundamental Requirements (1.0):**
+  - These are requirements that the project critically needs. Without them, the system or project will not function adequately.
+
+- **Recommended Requirements (2.0):**
+  - These are features that, while not mandatory, enhance functionality, user experience, or system efficiency.
+
+- **Optional Requirements (3.0):**
+  - These are extras or enhancements that can be removed without compromising the basic functionality of the system or project.
+
+### Functional Requirements
+
+1. **FRN1**: Login. ---> [1.0]
+2. **FRN2**: Contact registration in the system. ---> [3.0]
+3. **FRN3**: Real-time messaging. ---> [1.0]
+4. **FRN4**: Subject or topic-based chat rooms. ---> [2.0]
+5. **FRN5**: New message notifications. ---> [1.0]
+6. **FRN6**: Group moderation by tutors. ---> [3.0]
+7. **FRN7**: History of queries and shared files. ---> [2.0]
+8. **FRN8**: Registration and modification of schedule categories. ---> [2.0]
+9. **FRN9**: Curriculum view. ---> [3.0]
+
+### Non-Functional Requirements
+
+1. **NFR01:** Accessibility. --> [1.0]
+2. **NFR02:** Easy accessibility. --> [2.0]
+3. **NFR03:** Consistent user interface. --> [2.0]
+4. **NFR04:** Portability. --> [1.0]
+5. **NFR05:** Visual design. --> [3.0]
+
+______________________
+
+| Priority Level                         | Criterion                               | Argument                                                                      | Examples                                      |
+|----------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
+| **Fundamental Requirements (1.0)**     | Essential for system functionality      | Without these, the system will not operate adequately.                        | Login, message notifications, accessibility   |
+| **Recommended Requirements (2.0)**     | Improve user experience                 | Add additional value, optimizing functionality and user experience.           | Subject-based chat rooms, history of shared files |
+| **Optional Requirements (3.0)**        | Extras without critical impact          | Can be excluded without compromising the system’s basic functionality.        | Curriculum view, advanced visual design       |
