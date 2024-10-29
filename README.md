@@ -16,12 +16,32 @@ To enable efficient communication between students and tutors during the course 
 To develop a technological solution that allows students and tutors to interact clearly and in an organized manner during the course registration process, improving transparency and guidance in academic decision-making.
 
 ## **Table of Contents**
-1. [Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/TaskProduct%231)
-2. [Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Request%232)
-3. [Process](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Trial%233)
-4. [Preview Presentation](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_PA%234)
-5. [Generic Competencies and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)
-6. [Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)
+1. **[Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/TaskProduct%231)**  
+   - [ClassHub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/TaskProduct%231/ClassHub.md)
+
+
+2. **[Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Request%232)**  
+   - [Functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Functional%20requirements.md)
+   - [Non functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Non%20functional%20requirements.md)
+   - [Prioritization](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Prioritization.md)
+   - [Use case diagram](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Use%20case%20diagram.md)
+     
+3. **[Process Organization](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Trial%233)**  
+   - [Blog](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Blog.md)
+   - [Process](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Process.md)
+     
+4. **[Preview Presentation](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_PA%234)**  
+   - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_PA%234/Video%20presentation.md)
+
+5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)**  
+   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/GenericCompetences.md)
+   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/SpecificCompetencies.md)
+
+
+6. **[Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)**  
+   - [Classhub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Resources%20&%20Assets/Classhub.png)
+   - [Use Case Diagram](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Resources%20&%20Assets/Use%20Case%20Diagram.png)
+   - [User_Client](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Resources%20&%20Assets/User_Client.png)
 
 ## **Directories and Files**
 - **Task_Product#1**:  
@@ -76,13 +96,20 @@ For individual or personal branches (e.g., feature development or bug fixes), us
 
 ### **Numerical Code Assignment**
 Each team member receives a unique code, making it easy to add new members. For example:
+---
 
-1. **FIS#_01** – Chay: 
-2. **FIS#_02** – Nicolás: 
-3. **FIS#_03** – Armando: 
-4. **FIS#_04** – Fabio: 
-5. **FIS#_05** – Ruby: 
-6. **FIS#_06** – Luis: 
+## **Assignment of Numeric Codes**
+
+| Code   | Member    |
+|--------|-----------|
+| FIS#_01 | Chay     |
+| FIS#_02 | Nicolás  |
+| FIS#_03 | Armando  |
+| FIS#_04 | Laura    |
+| FIS#_05 | Ruby     |
+| FIS#_06 | Luis     |
+
+---
 
 ### **Process for New Members**
 New members will be assigned the next available numerical code. Once their task is defined, a branch will be created using this structure. For example:
