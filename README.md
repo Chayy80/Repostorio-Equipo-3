@@ -105,7 +105,7 @@ Each team member receives a unique code, making it easy to add new members. For 
 | FIS#_01 | Chay     |
 | FIS#_02 | Nicolás  |
 | FIS#_03 | Armando  |
-| FIS#_04 | Laura    |
+| FIS#_04 | Fabio    |
 | FIS#_05 | Ruby     |
 | FIS#_06 | Luis     |
 
