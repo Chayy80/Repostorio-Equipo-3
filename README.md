@@ -54,9 +54,8 @@ To develop a technological solution that allows students and tutors to interact 
   This folder includes the Presentation and the Video explaining the repository.
 - **Task_Scope#5**:  
   This folder documents the Individual Contribution and the skills and abilities we acquired during work.
-- **Task_Desing#6**
-  This folder includes the wireframes about the project.
-  This folder is   
+- **Task_Desing#6**:
+  This folder includes the wireframes about the project. 
 - **Resources & Assets**:  
   This folder includes the visual resources and assets of the project.
 
