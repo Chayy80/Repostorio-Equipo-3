@@ -45,7 +45,7 @@ To develop the prototype, conferences were held where the team suggested ideas t
 
 > ### Delimitation
 >
-> The study focused on first-semester students with emerging questions and doubts.
+> The study focused on first-semester students of bacherlor degree in software engineering.
 
 > ### Justification
 >
