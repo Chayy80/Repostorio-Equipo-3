@@ -24,9 +24,8 @@
    mensaje, para estar al tanto de las comunicaciones importantes en
    tiempo real.
 
-### *6. Moderación de grupos de chat por tutores.*
- - Como tutor, quiero crear y moderar grupos de chat, agregando o
-   eliminando alumnos, para gestionar mejor las discusiones y
+### *6. Moderación de chat por tutores.*
+ - Como tutor, quiero crear y moderar el chat, para gestionar mejor las discusiones y
    colaboraciones.
 
 ### *7. Historial de consultas y archivos compartidos.*
