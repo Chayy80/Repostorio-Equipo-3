@@ -28,6 +28,8 @@
 #### •	Función: Permite saltar el tutorial; es una opción secundaria.
 ## Ejemplo
 ![Video tutorial](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%234_PB/Resources%20%26%20Assets/Opera%20Instant%C3%A1nea_2024-11-04_191822_www.figma.com.png)
+### Prototipo
+https://www.figma.com/proto/GAQ3Lt9czWeJwgFzj7hTJ7/Untitled?node-id=1-448&t=6w6AGU9p5N75pX7E-1
 
 
 
