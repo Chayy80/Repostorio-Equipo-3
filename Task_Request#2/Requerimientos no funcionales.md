@@ -1,8 +1,7 @@
 > # No funcionales:
 
 ### *1. Accesibilidad.*
- - El sistema debe ser accesible desde navegadores modernos y
-   dispositivos móviles sin necesidad de descargar aplicaciones.
+ - El sistema debe ser accesible desde dispositivos móviles sin necesidad de descargar aplicaciones.
 
 ### *2. Accesibilidad fácil.*
  - El sistema debe tener una navegación clara y organizada, permitiendo
@@ -13,8 +12,7 @@
    las páginas y funcionalidades para facilitar la navegación y el uso.
 
 ### *4. Portabilidad.*
- - El sistema debe ser funcional en dispositivos de baja gama,
-   incluyendo celulares, computadoras, laptops y tabletas.
+ - El sistema debe ser funcional en dispositivos celulares.
 
 ### *5. Diseño visual.*
  - El sistema debe contar con un diseño visual agradable y sencillo,
