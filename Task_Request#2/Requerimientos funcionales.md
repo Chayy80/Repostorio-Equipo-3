@@ -33,3 +33,22 @@
    escolar para mantener mi planificación académica actualizada y
    organizada.
 
+> # ¿Por qué?
+Se eligieron estos requerimientos debido a que nos permiten cubrir las necesidades esenciales de los usuarios para mejorar la experiencia académica virtual.
+
+1.  **Inicio de sesión**: Permite la seguridad y personalización al acceder al sistema.
+    
+2.  **Registro de información básica**: Facilita la creación de perfiles completos y personalizados para una mejor gestión académica.
+    
+3.  **Mensajería en tiempo real**: Mejora la comunicación eficiente y rápida entre los usuarios, esencial en un entorno académico.
+    
+4.  **Salas de chat por asignaturas o temas**: Permiten una organización clara de las discusiones, facilitando el aprendizaje y la colaboración específica.
+    
+5.  **Notificaciones de mensajes nuevos**: Aseguran que los usuarios estén siempre al tanto de las comunicaciones importantes, mejorando la respuesta y participación.
+    
+6.  **Moderación de chat por tutores**: Mantiene un ambiente ordenado y enfocado en las salas de chat, esencial para discusiones productivas y constructivas.
+    
+7.  **Registro y modificación de categorías de horarios**: Ayuda a los usuarios a mantener sus horarios escolares actualizados, promoviendo una mejor planificación y organización académica.
+    
+
+Estos requerimientos están diseñados para crear una plataforma efectiva, segura y centrada en las necesidades reales de los usuarios.
