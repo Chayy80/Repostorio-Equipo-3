@@ -34,8 +34,8 @@ To develop a technological solution that allows students and tutors to interact 
    - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_PA%234/Video%20presentation.md)
 
 5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)**  
-   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/GenericCompetences.md)
-   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/SpecificCompetencies.md)
+   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%232_ProjectMA/Task_Scope%235/GenericCompetences.md)
+   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%232_ProjectMA/Task_Scope%235/SpecificCompetencies.md)
 
 
 6. **[Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)**  
@@ -54,6 +54,8 @@ To develop a technological solution that allows students and tutors to interact 
   This folder includes the Presentation and the Video explaining the repository.
 - **Task_Scope#5**:  
   This folder documents the Individual Contribution and the skills and abilities we acquired during work.
+- **Task_Desing#6**:  
+  This folder includes wireframes designs for the **ClassHUB** project. 
 - **Resources & Assets**:  
   This folder includes the visual resources and assets of the project.
 
@@ -105,7 +107,7 @@ Each team member receives a unique code, making it easy to add new members. For 
 | FIS#_01 | Chay     |
 | FIS#_02 | Nicolás  |
 | FIS#_03 | Armando  |
-| FIS#_04 | Laura    |
+| FIS#_04 | Fabio    |
 | FIS#_05 | Ruby     |
 | FIS#_06 | Luis     |
 

@@ -1,13 +1,16 @@
-# Generic Competencies 
+### Specific Learning Competencies for the Team in the Messaging Application Project
 
+1. **Use of Version Control Tools (Git and Git Bash)**
+    
+    - **Competency**: Apply knowledge of Git and Git Bash to manage the project’s source code, facilitating collaboration among team members through branch creation, commits, and merges.
+    - **Project Objective**: Ensure that each member can make and document code changes without conflicts, maintaining a clear and organized history of all modifications made to the application.
 
+2. **User Interface Design (WiriFrame)**
+    
+    - **Competency**: Develop skills in user interface design tools (such as Figma) to create a user-friendly and functional interface that allows intuitive navigation.
+    - **Project Objective**: Design and prototype a clear interface for the application, considering usability and accessibility aspects that will guide the final app implementation.
 
-In our project, we have recognized the importance of generic competencies, which encompass a range of versatile skills, attitudes, and knowledge that are fundamental across various fields and situations. These competencies are not tied to one specific area of expertise but are applicable in numerous contexts, playing a key role in our personal, professional, and social development. Their broad relevance allows us to transfer them to different settings, making them essential for navigating an ever-changing world.
-
-In particular, our project focuses on clear communication, enabling us to convey ideas effectively in diverse scenarios. Collaboration is also a cornerstone of our project, as we work with others towards shared goals as part of a team. Analytical thinking allows us to assess situations objectively, identify challenges, and form well-reasoned conclusions. Additionally, problem-solving is integral to our project, as we tackle challenges by identifying key issues and implementing suitable solutions.
-
-Self-directed learning is emphasized in our approach, equipping us to acquire new knowledge and skills independently while adapting to new demands. We strive for ethical judgment in our decision-making, acting with integrity and adhering to strong ethical standards. Our project also incorporates digital literacy, ensuring we use technology efficiently and responsibly across different tasks.
-
-Furthermore, flexibility is crucial as we adapt to changes, new challenges, and unfamiliar environments. Lastly, innovative thinking drives our project, as we generate original ideas and apply creativity to improve systems and solve problems.
-
-These competencies equip us with the tools to adapt to various professional and social settings, ensuring success in a world that is constantly evolving.
+3. **Software Simulation**
+    
+    - **Competency**: Learn to run software prototypes using Figma to ensure that the main functions of the application work correctly.
+    - **Project Objective**: Detect and correct errors early, ensuring that messaging functions and navigation options are stable and easy to use.
