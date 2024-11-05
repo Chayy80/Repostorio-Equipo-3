@@ -15,7 +15,7 @@ Each role was assigned to each member primarily based on their soft skills (this
 
 ```mermaid
 graph TD;
-    A[Scrum Method] --> B[Scrum Master];
+    A[Scrum Method] --> B[Product Owner/Scrum Master];
     A --> D[Scrum developer];
     A --> E[Scrum developer];
     A --> F[Scrum developer];
