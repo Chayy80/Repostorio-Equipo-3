@@ -1,13 +1,44 @@
-# Generic Competencies 
+### Unit I: Evolution of Software Engineering
 
+**Expected Competencies:**
 
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT (Information and Communication Technologies) in professional contexts.
+- Knowledge management and the ability to intervene in both personal and professional settings.
 
-In our project, we have recognized the importance of generic competencies, which encompass a range of versatile skills, attitudes, and knowledge that are fundamental across various fields and situations. These competencies are not tied to one specific area of expertise but are applicable in numerous contexts, playing a key role in our personal, professional, and social development. Their broad relevance allows us to transfer them to different settings, making them essential for navigating an ever-changing world.
+**Project Achievements:** The team made significant progress in communication and idea-sharing, with notable improvements in writing requirements. However, precision in writing still needs refinement to prevent misunderstandings.
 
-In particular, our project focuses on clear communication, enabling us to convey ideas effectively in diverse scenarios. Collaboration is also a cornerstone of our project, as we work with others towards shared goals as part of a team. Analytical thinking allows us to assess situations objectively, identify challenges, and form well-reasoned conclusions. Additionally, problem-solving is integral to our project, as we tackle challenges by identifying key issues and implementing suitable solutions.
+----------
 
-Self-directed learning is emphasized in our approach, equipping us to acquire new knowledge and skills independently while adapting to new demands. We strive for ethical judgment in our decision-making, acting with integrity and adhering to strong ethical standards. Our project also incorporates digital literacy, ensuring we use technology efficiently and responsibly across different tasks.
+### Unit II: Areas of Software Development
 
-Furthermore, flexibility is crucial as we adapt to changes, new challenges, and unfamiliar environments. Lastly, innovative thinking drives our project, as we generate original ideas and apply creativity to improve systems and solve problems.
+**Expected Competencies:**
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+- Knowledge management and intervention skills applicable in personal and professional environments.
+- Responsible decision-making in both professional and personal practices.
 
-These competencies equip us with the tools to adapt to various professional and social settings, ensuring success in a world that is constantly evolving.
+**Project Achievements:** The team demonstrated a strong commitment to collaborative learning through GitHub and GitBash, effectively using branch creation and pull request management to maintain organized development. They also structured a repository and used sprint planning to assign roles and tasks efficiently.
+
+----------
+
+### Unit III: Software Life Cycle
+
+**Expected Competencies:**
+
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+
+**Project Achievements:** In this unit, the team applied agile methodologies, enhancing their ability to adapt to changes quickly and improving efficiency in task assignments.
+
+----------
+
+### Unit IV: Software Quality Management
+
+**Expected Competencies:**
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+- Knowledge management and intervention abilities in personal and professional settings.
+- Application of quality standards for project review and evaluation.
+
+**Project Achievements:** The team did not achieve a basic quality standard in software due to varying approaches taken by team members who prioritized other high-importance areas. This focus delayed the adoption of any specific methodology for software quality.
