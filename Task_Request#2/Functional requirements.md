@@ -25,3 +25,23 @@
 
 ### *7. Schedule categories registration and modification:*
  - As a user, i want to register and modify the subjects in my school schedule to keep my academic planning updated and organized.
+
+> # Why?
+We chose these requirements because they allow us to meet the essential needs of users and enhance the virtual academic experience.
+
+1.  **Login**: Enables secure and personalized access to the system.
+    
+2.  **Basic information registration**: Allows new users to provide their name, institutional and personal email, degree, as well as their student ID and semester if necessary, to complete their profile.
+    
+3.  **Real-time messaging**: Facilitates efficient and fast communication among users.
+    
+4.  **Subject or topic-specific chat rooms**: Allows tutors to create separate chat rooms for different subjects or topics, organizing discussions and collaborations more effectively.
+    
+5.  **New message notifications**: Keeps users informed of important communications in real-time.
+    
+6.  **Chat moderation by tutors**: Enables tutors to create and moderate chats to better manage discussions and collaborations.
+    
+7.  **Schedule category registration and modification**: Helps users to record and update their school schedule to keep their academic planning up-to-date and organized.
+    
+
+These requirements are designed to create an effective, secure, and user-focused platform.
