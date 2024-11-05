@@ -34,8 +34,8 @@ To develop a technological solution that allows students and tutors to interact 
    - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_PA%234/Video%20presentation.md)
 
 5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)**  
-   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/GenericCompetences.md)
-   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Scope%235/SpecificCompetencies.md)
+   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%232_ProjectMA/Task_Scope%235/GenericCompetences.md)
+   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%232_ProjectMA/Task_Scope%235/SpecificCompetencies.md)
 
 
 6. **[Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)**  
