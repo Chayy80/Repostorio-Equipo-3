@@ -27,3 +27,7 @@ El estudiante desea recibir notificaciones centralizadas de todas sus aplicacion
    aplicaciones    específicas.
  - El estudiante debe poder acceder a un historial de    notificaciones
    para revisar mensajes anteriores.
+   
+# Wireframe
+
+![image](https://github.com/user-attachments/assets/4392818a-a25d-4cbd-867b-6c0092bc7eb5)
