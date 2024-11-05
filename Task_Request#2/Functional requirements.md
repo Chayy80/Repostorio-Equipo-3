@@ -20,18 +20,8 @@
  - As a user, I want to receive notifications when I receive a new
    message to stay informed about important communications in real-time.
 
-### *6. Chat group moderation by tutors:*
- - As a tutor, I want to create and moderate chat groups, adding or
-   removing students, to better manage discussions and collaborations.
+### *6. Chat moderation by tutors:*
+ - As a tutor, I want to create and moderate chat, to better manage discussions and collaborations.
 
-### *7. History of queries and shared files:*
- - As a user, I want the platform to save a history of all queries and
-   exchanged files so I can access them at any time for future
-   reference.
-
-### *8. Schedule categories registration and modification:*
+### *7. Schedule categories registration and modification:*
  - As a user, i want to register and modify the subjects in my school schedule to keep my academic planning updated and organized.
-
-### *9. Curriculum visualization:*
- - As a student, I want to visualize the curriculum of my degree program to better understand the courses I need to take and plan my academic trajectory.
-
