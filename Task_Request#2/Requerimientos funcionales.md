@@ -28,17 +28,8 @@
  - Como tutor, quiero crear y moderar el chat, para gestionar mejor las discusiones y
    colaboraciones.
 
-### *7. Historial de consultas y archivos compartidos.*
- - Como usuario, quiero que la plataforma guarde un historial de todas
-   las consultas y archivos intercambiados, para poder acceder a ellos
-   en cualquier momento para referencia futura.
-
-### *8. Registro y modificación de categorías de horarios.*
+### *7. Registro y modificación de categorías de horarios.*
  * Como usuario, quiero registrar y modificar las materias de mi horario
    escolar para mantener mi planificación académica actualizada y
    organizada.
 
-### *9. Visualización de la malla curricular.*
- * Como estudiante, quiero visualizar la malla curricular de mi carrera,
-   para entender mejor los cursos que debo tomar y planificar mi
-   trayectoria académica.
