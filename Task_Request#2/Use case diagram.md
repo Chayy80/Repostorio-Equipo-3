@@ -1,7 +1,7 @@
 # Use case diagram 
 ## A use case diagram is a visual representation that details how users can interact with a system.
 
-![Use case diagram ](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%231_Project_Testing&Overtures/Resources%20&%20Assets/Use_Case_Diagram.png?raw=true)
+![Use case diagram ](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%234_PB/Resources%20&%20Assets/Untitled%20Diagram.png?raw=true)
 
 # Requirements Documentation
 
@@ -23,11 +23,6 @@
   - **Description**: Allows the tutor to moderate chat groups and manage students.
   - **Justification**: Ensures productive interactions.
 
-### 2. Student
-
-- **Curriculum visualization**
-  - **Description**: Allows the student to view the curriculum map.
-  - **Justification**: Helps in planning courses and managing progress.
 
 ## Shared Use Cases
 
@@ -46,10 +41,6 @@
 - **New message notifications**
   - **Description**: Notifications for new messages.
   - **Justification**: Keeps users informed.
-
-- **History of queries and shared files**
-  - **Description**: Stores the history of queries and files exchanged.
-  - **Justification**: Allows access to previous information.
 
 - **Schedule categories registration and modification**
   - **Description**: Registration and modification of subjects in the schedule.
