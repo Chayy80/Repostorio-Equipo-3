@@ -1,44 +1,45 @@
-## Unidad I: Evolución de la Ingeniería de Software
+### Unit I: Evolution of Software Engineering
 
-**Competencias Esperadas:**
+**Expected Competencies:**
 
--   Comunicación oral y escrita en español de manera correcta y efectiva.
--   Uso responsable y adecuado de las TIC en contextos profesionales.
--   Gestión de conocimiento y habilidades de intervención en entornos personales y laborales.
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT (Information and Communication Technologies) in professional contexts.
+- Knowledge management and the ability to intervene in both personal and professional settings.
 
-**Logros del Proyecto:** El equipo mejoró notablemente en la comunicación y transmisión de ideas, sobre todo en la redacción de requisitos. Pero se observó que la precisión en la redacción aún necesita ser afinada para evitar malentendidos.
-
-----------
-
-## Unidad II: Áreas del Desarrollo del Software
-
-**Competencias Esperadas:**
--   Comunicación oral y escrita en español de manera correcta y efectiva.
--   Uso responsable y adecuado de las TIC en contextos profesionales.
--   Gestión de conocimiento y habilidades de intervención en entornos personales y laborales.
--   Toma de decisiones responsables en la práctica profesional y personal.
-
-**Logros del Proyecto:** El equipo demostró gran disposición en el aprendizaje colaborativo mediante GitHub y GitBash, aplicando la creación de ramas y la gestión de pull requests para un desarrollo organizado. así mismo la organización de un repositorio; igual el uso de spring para una mejor disposición de los roles de trabajo y la gestión de labores de cada miembro. 
+**Project Achievements:** The team made significant progress in communication and idea-sharing, with notable improvements in writing requirements. However, precision in writing still needs refinement to prevent misunderstandings.
 
 ----------
 
-## Unidad III: Ciclo de Vida del Software
+### Unit II: Areas of Software Development
 
-**Competencias Esperadas:**
+**Expected Competencies:**
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+- Knowledge management and intervention skills applicable in personal and professional environments.
+- Responsible decision-making in both professional and personal practices.
 
--   Comunicación oral y escrita en español de manera correcta y efectiva.
--   Uso responsable y adecuado de las TIC en contextos profesionales.
-
-**Logros del Proyecto:** En esta unidad, el equipo trabajó en la aplicación de metodologías ágiles, desarrollando habilidades para adaptarse rápidamente a cambios y mejorar la eficiencia en la asignación de tareas.
+**Project Achievements:** The team demonstrated a strong commitment to collaborative learning through GitHub and GitBash, effectively using branch creation and pull request management to maintain organized development. They also structured a repository and used sprint planning to assign roles and tasks efficiently.
 
 ----------
 
-## Unidad IV: Gestión de la Calidad del Software
+### Unit III: Software Life Cycle
 
-**Competencias Esperadas:**
--   Comunicación oral y escrita en español de manera correcta y efectiva.
--   Uso responsable y adecuado de las TIC en contextos profesionales.
--   Gestión de conocimiento y habilidades de intervención en entornos personales y laborales.
--   Aplicación de estándares de calidad en la revisión y evaluación de proyectos.
+**Expected Competencies:**
 
-**Logros del Proyecto:** El equipo no logro alcanzar algún tipo de estándar básico de calidad de software debido a debido a diferentes enfoques que los miembros del equipo le dieron a otras áreas de sumamente priorización, esto a su vez, retrasando algún tipo de metodología para la calidad del software. 
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+
+**Project Achievements:** In this unit, the team applied agile methodologies, enhancing their ability to adapt to changes quickly and improving efficiency in task assignments.
+
+----------
+
+### Unit IV: Software Quality Management
+
+**Expected Competencies:**
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+- Knowledge management and intervention abilities in personal and professional settings.
+- Application of quality standards for project review and evaluation.
+
+**Project Achievements:** The team did not achieve a basic quality standard in software due to varying approaches taken by team members who prioritized other high-importance areas. This focus delayed the adoption of any specific methodology for software quality.
+
