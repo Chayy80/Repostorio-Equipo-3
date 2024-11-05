@@ -15,12 +15,12 @@ Each role was assigned to each member primarily based on their soft skills (this
 
 ```mermaid
 graph TD;
-    A[Belbin Method] --> B[Coordinator];
-    A --> D[Plant];
-    A --> E[Completer];
-    A --> F[Teamworker];
-    A --> G[Evaluator];
-    A --> H[Specialist];
+    A[Scrum Method] --> B[Scrum Master];
+    A --> D[Scrum developer];
+    A --> E[Scrum developer];
+    A --> F[Scrum developer];
+    A --> G[Scrum developer];
+    A --> H[Scrum developer];
     
     B --> B1[Jesus Israel Leon Chay];
     E --> E1[Luis Enrique Calan Cruz];
@@ -40,30 +40,45 @@ The repository consists of several branches, which we will detail below:
 
 Each of these branches contains their respective folders, starting with the name "Task," plus the Readme of each branch, which explains the purpose of that branch.
 
-##### *PD 1 is just a branch for submitting a task and is not an essential part of the project.
+##### *PD 1 and PD2 are just a branches for submitting a task and is not an essential part of the project.
 
 ## Activities and Assignments
 
 Each collaborator was assigned a personalized number of tasks depending on their skills and availability, with the goal of completing the project on time. The assigned tasks were:
 
-1.  Describe our product
-2.  Identify and define our users/customers
-3.  Draft our value proposition compared to the rest
-4.  Define functional requirements/user stories
-5.  Define non-functional requirements
-6.  Assign a priority to each requirement
-7.  Create artifacts that illustrate the requirements
-8.  Describe the project development process
-9.  Project management with task review
-10.  Assign an individual contribution metric
-11.  Repository organization
-12.  Repository documentation
-13.  Create a presentation about the project
-14.  Record the presentation
-15.  Edit the presentation video for refinement
-16.  Define generic competencies
-17.  Define specific competencies
+Weight of the activity: Red: 40 points, Orange: 30-25 points, Yellow: 15 \-10 points.  
+The number of points earned is the corresponding percentage grade number that will be converted to a percentage. Example: 100 points \- 100% grade
 
+The activities are in our backlog and you can check it in our project of github
+
+\*Nomenclature in the backlog: T\#\_PB.\#-\#. The (T\#) is the number of the carpet of the task, and the number of integrant and the number of activity
+
+Table of the activities
+
+| Activities | Integrant | Weight | Done? |
+| :---- | :---- | :---- | :---- |
+| PB.01-1 | 01 | Red | Yes |
+| PB.01-2 | 01 | Orange | Yes |
+| PB.01-3 | 01 | Yellow | Yes |
+| PB.01-4 | 01 | Yellow | Yes |
+| PB.02-1 | 02 | Red | Yes |
+| PB.02-2 | 02 | Orange | Yes |
+| PB.02-3 | 02 | Yellow | Yes |
+| PB.02-4 | 02 | Yellow | Yes |
+| PB.03-1 | 03 | Red | Don’t for him |
+| PB.03-2 | 03 | Orange | Don’t for him |
+| PB.04-1 | 04 | Red | Yes |
+| PB.04-2 | 04 | Orange | Yes |
+| PB.04-3 | 04 | Yellow | Yes |
+| PB.04-4 | 04 | Yellow | Yes |
+| PB.05-1 | 05 | Red | Yes |
+| PB.05-2 | 05 | Orange | Yes |
+| PB.05-3 | 05 | Yellow | Yes |
+| PB.05-4 | 05 | Yellow | Yes |
+| PB.06-1 | 06 | Red | Yes |
+| PB.06-2 | 06 | Orange | Yes |
+| PB.06-3 | 06 | Orange | Yes |
+ 
 ## Meetings
 
 It was agreed that meetings would be held in a mixed format (in-person or virtual). In-person meetings were held every Friday from 9 to 10:30, with the final meeting on Monday, October 30, which is the final submission date for this phase. Virtual meetings were held on Discord on agreed-upon days. For more information, consult the [blog](https://github.com/users/Chayy80/projects/1).
@@ -73,3 +88,14 @@ It was agreed that meetings would be held in a mixed format (in-person or virtua
 After establishing the roles, the tasks to be completed, and scheduling the meetings in the log, the work was divided so that each person could complete tasks individually or in collaboration with others (more details in our GitHub project [FIS_Project](https://github.com/users/Chayy80/projects/1)). The collaborators completed their three activities on time and remained active in the project, aiming to achieve a 100% score for this submission. No issues arose in this phase, but if any should arise, they will be addressed in one of the in-person or virtual meetings, and appropriate measures will be taken by the team.
 
 This approach is adopted to accommodate the circumstances of each collaborator and avoid using a rigid metric. In cases like a slight delay in submitting a task, it is not deemed appropriate to reduce the score percentage; instead, the collaborator will be warned to be more careful in the future. If it happens again, more serious measures will be taken.
+
+Table of the Individual contribution metric:
+
+| Integrante | Actividad 1 (Red) | Actividad 2 (Orange) | Activity 3 (Orange) | Activity 4 (Yellow) | Activity 5 (Yellow) | Total |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| 01 | 40 pts | 25 pts | don’t | 15 pts | 15 pts | 95% |
+| 02 | 40 pts | 25 pts | 25 pts | 10 pts | don’t | 100% |
+| 03 | 0 pts | 0 pts | don’t | don’t | don’t | 0% |
+| 04 | 40 pts | 30 pts | don’t | 15 pts | 15 pts | 100% |
+| 05 | 40 pts | 30 pts | don’t | 15 pts | 15 pts | 100% |
+| 06 | 40 pts | 30 pts | 30 pts | don’t  | don’t | 100% |
