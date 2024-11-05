@@ -1,7 +1,7 @@
 > # *Non Functional:*
 
 ### *1. Accessibility:*
- - The system must be accessible from modern browsers and mobile devices
+ - The system must be accessible from mobile devices
    without the need to download applications.
 
 ### *2. Easy accessibility:*
@@ -13,8 +13,7 @@
    and functionalities to facilitate navigation and use.
 
 ### *4. Portability:*
- - The system must be functional on low-end devices, including cell
-   phones, computers, laptops, and tablets.
+ - The system must be functional on cell phones.
 
 ### *5. Visual design:*
  - The system must have a pleasant and simple visual design, using soft
