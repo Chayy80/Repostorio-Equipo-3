@@ -51,7 +51,7 @@ The number of points earned is the corresponding percentage grade number that wi
 
 The activities are in our backlog and you can check it in our project of github
 
-\*Nomenclature in the backlog: T\#\_PB.\#-\#. The (T\#) is the number of the carpet of the task, and the number of integrant and the number of activity
+\*Nomenclature in the backlog: PB.\#-\#. The PB.##-# is the number of integrant and the number of activity
 
 Table of the activities
 
@@ -65,8 +65,6 @@ Table of the activities
 | PB.02-2 | 02 | Orange | Yes |
 | PB.02-3 | 02 | Yellow | Yes |
 | PB.02-4 | 02 | Yellow | Yes |
-| PB.03-1 | 03 | Red | Don’t for him |
-| PB.03-2 | 03 | Orange | Don’t for him |
 | PB.04-1 | 04 | Red | Yes |
 | PB.04-2 | 04 | Orange | Yes |
 | PB.04-3 | 04 | Yellow | Yes |
@@ -93,9 +91,44 @@ Table of the Individual contribution metric:
 
 | Integrante | Actividad 1 (Red) | Actividad 2 (Orange) | Activity 3 (Orange) | Activity 4 (Yellow) | Activity 5 (Yellow) | Total |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 01 | 40 pts | 25 pts | don’t | 15 pts | 15 pts | 95% |
+| 01 | 40 pts | 30 pts | don’t | 15 pts | 15 pts | 100% |
 | 02 | 40 pts | 25 pts | 25 pts | 10 pts | don’t | 100% |
-| 03 | 0 pts | 0 pts | don’t | don’t | don’t | 0% |
+| 03 |  |  |  |  |  | 0% |
 | 04 | 40 pts | 30 pts | don’t | 15 pts | 15 pts | 100% |
 | 05 | 40 pts | 30 pts | don’t | 15 pts | 15 pts | 100% |
 | 06 | 40 pts | 30 pts | 30 pts | don’t  | don’t | 100% |
+
+# Step by Step about our process
+
+## Problematic
+
+First we started thinking about a problem that we had at school level, at first we were thinking about making a change in the system of choice of subjects, but we did not have the resources to do this, then we realized that between tutors and students there is always a lack of interest of the latter to make an appointment with them to talk to each other, with that problem we decided to work and find a solution that was to create Class Hub, a messaging system that would streamline communication between these two parties. That was the idea and solution in mind, now it was a matter of working out how ClassHub would do it.
+
+## Requeriments
+
+With this we started now to plan the functional and non-functional requirements that our product had to meet, we started establishing requirements such as a login, messaging system, file saving system, among others but we realized with the first delivery that the list we delivered was too long, so we decided to cut requirements that were not entirely necessary and even some that we did not realize that they were repeated, they lacked specification.
+and many details that we were correcting with the passing of the deliveries.
+With these points explained and the requirements refined, we wrote the user story format from the beginning, until we got to the ones we have in this final delivery. We also made the analysis of the acceptance criteria for each user story.
+
+## Metodology
+
+With this done, the only thing left to do was to start organizing the team and see where we were going to house all the progress of our work. At the beginning, the work methodology that we tried to apply was the waterfall method but due to the lack of time it was not going to allow us to work properly if we used this methodology. With what we learned from the course and with the amount of time that was too little to apply this method we had to migrate to Scrum, an agile methodology that actually turned out to be very friendly for us because it benefits a lot to maintain a good and constant communication with your team members, something that we did have because we always had constant meetings and we implemented a backlog for the constant review of the tasks and requirements for the work.
+Although the team constantly communicated every change and event, sometimes this failed and was not properly notified, as well as there were constant problems when it came to discipline when applying the sprints, we all worked properly, but we could have improved around delivery times.
+
+## Wireframes
+
+After having already established the requirements sufficiently refined we started working on the wireframes, which would give them the structure that was necessary to see how our product would be composed, we started working in penpont and did everything from scratch but we made the mistake of creating UI's, we focused a lot on visual design, then with more knowledge of what a wireframe was we decided to use an internet toolkit with which we would take the most important elements and switched to Figma, as this was more practical when working on a toolkit in our opinion. We first made the login and chat wireframes which were to be created with respect to the requirements, this with the plan to start getting familiar with Figma, after that we went on with the rest of the wireframes, until we came to our senses and we had to mainly make the wireframes of the requirements that form the innovative part of ClassHub, shifting our focus and energies to this goal.
+
+## UI
+
+For the UI's the truth is that the work we did on the wireframes was faithful enough to work on them the animations we would need for the simulation.  The animations were what really complicated us, making the wireframes was only as such the process copy, paste, modify, it was relatively easy, time consuming, but not very complex, now, create the flow where the user would have to interact with each component of our UI's that was not easy because we did not have to follow directly the Happy Path, this route was made first and we seek in the design of the UI's that is intuitive for the user and only have to follow this route. 
+
+## Usability Test
+
+A la hora de las pruebas de usabilidad, empezamos a conseguir las metricas que nos proporcionaban nuestros UI’s, decidimos usar Google Forms para el registro de los datos y grabamos la conversación que se tuvieron con nuestros 5 sujetos, los datos a los que llegamos no fueron lo completamente esperado, pensabamos que al hacer UI’s sencillos donde los usuarios seguirian el Happy Path debido a su limitadas opciones, pero no contamos con que los usuarios se agobiarian y a veces decidieran volver al menú, contamos el número de equivocaciones, numero de click, etc. Al final los resultados de la prueba no buscaban ser satisfactorios, buscabamos ver como era el trabajo que habiamos realizado.
+
+
+
+
+
+

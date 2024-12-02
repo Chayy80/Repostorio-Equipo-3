@@ -40,12 +40,11 @@ ______________________
 1. **FRN1**: Login. ---> [1.0]
 2. **FRN2**: Contact registration in the system. ---> [3.0]
 3. **FRN3**: Real-time messaging. ---> [1.0]
-4. **FRN4**: Subject or topic-based chat rooms. ---> [2.0]
+4. **FRN4**: Chat rooms by subjects or topics. ---> [2.0]
 5. **FRN5**: New message notifications. ---> [1.0]
 6. **FRN6**: Group moderation by tutors. ---> [3.0]
-7. **FRN7**: History of queries and shared files. ---> [2.0]
-8. **FRN8**: Registration and modification of schedule categories. ---> [2.0]
-9. **FRN9**: Curriculum view. ---> [3.0]
+7. **FRN7**: Schedule categories registration and modification. ---> [2.0]
+8. **FRN8**: Scheduling Activities on a Board-Like Space. ---> [2.0]
 
 ### Non-Functional Requirements
 
@@ -54,6 +53,10 @@ ______________________
 3. **NFR03:** Consistent user interface. --> [2.0]
 4. **NFR04:** Portability. --> [1.0]
 5. **NFR05:** Visual design. --> [3.0]
+6. **NFR07:** Navigation clarity. --> [2.0]
+7. **NFR07:** Functionalities meeting. --> [2.0]
+8. **NFR08:** Understanding icons and texts. --> [3.0]
+
 
 ______________________
 

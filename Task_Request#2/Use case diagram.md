@@ -1,7 +1,7 @@
 # Use case diagram 
 ## A use case diagram is a visual representation that details how users can interact with a system.
 
-![Use case diagram ](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%234_PB/Resources%20&%20Assets/Untitled%20Diagram.png?raw=true)
+![Use case diagram ](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Resources%20&%20Assets/Untitled%20Diagram%20(1).png?raw=true)
 
 # Requirements Documentation
 
@@ -45,3 +45,7 @@
 - **Schedule categories registration and modification**
   - **Description**: Registration and modification of subjects in the schedule.
   - **Justification**: Facilitates academic organization.
+ 
+- **Scheduling Activities on a Board-Like**
+  - **Description**: Allows users to organize and plan activities visually on a board-like interface.
+  - **Justification**: Simplifies task management and enhances productivity by providing a clear and structured overview of activities.
