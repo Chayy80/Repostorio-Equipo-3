@@ -66,6 +66,18 @@
 -   The overall design must be clean and uncluttered, prioritizing user experience and ease of use.
     
 -   User feedback on the visual design must be collected and considered for future improvements.
+
+### 6.  Navigation clarity:*
+
+ - The system must do the clear and organized navigation, so that you can easily access all functions.
+
+### 7. Functionalities meeting:* 
+
+The system must allow the main functions to be visible from the initial screen. 
+
+### 8. Understanding icons and texts:*
+
+The system must achieve that the user is able to understand the icons and texts must be interpreted correctly without additional explanations by a third party or designed guide. 
    
 > # Why?
 -   **Accessibility**: We chose this requirement to ensure the system is accessible from mobile devices without the need to download additional applications, making access easier for all users anytime and anywhere.
