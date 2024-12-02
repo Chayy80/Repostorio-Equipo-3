@@ -46,7 +46,6 @@ To develop a technological solution that allows students and tutors to interact 
 
    - [Constructive critique](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/Constructive%20critique.md)
 
--
   
 6. **[Design](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Design%236)**  
    - [Documentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Design%236/Documentation.md)
