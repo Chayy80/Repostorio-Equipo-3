@@ -119,7 +119,7 @@ Although the team constantly communicated every change and event, sometimes this
 
 After having already established the requirements sufficiently refined we started working on the wireframes, which would give them the structure that was necessary to see how our product would be composed, we started working in penpont and did everything from scratch but we made the mistake of creating UI's, we focused a lot on visual design, then with more knowledge of what a wireframe was we decided to use an internet toolkit with which we would take the most important elements and switched to Figma, as this was more practical when working on a toolkit in our opinion. We first made the login and chat wireframes which were to be created with respect to the requirements, this with the plan to start getting familiar with Figma, after that we went on with the rest of the wireframes, until we came to our senses and we had to mainly make the wireframes of the requirements that form the innovative part of ClassHub, shifting our focus and energies to this goal.
 
-##UI
+## UI
 
 For the UI's the truth is that the work we did on the wireframes was faithful enough to work on them the animations we would need for the simulation.  The animations were what really complicated us, making the wireframes was only as such the process copy, paste, modify, it was relatively easy, time consuming, but not very complex, now, create the flow where the user would have to interact with each component of our UI's that was not easy because we did not have to follow directly the Happy Path, this route was made first and we seek in the design of the UI's that is intuitive for the user and only have to follow this route. 
 
