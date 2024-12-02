@@ -16,32 +16,40 @@ To enable efficient communication between students and tutors during the course 
 To develop a technological solution that allows students and tutors to interact clearly and in an organized manner during the course registration process, improving transparency and guidance in academic decision-making.
 
 ## **Table of Contents**
-1. **[Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/TaskProduct%231)**  
-   - [ClassHub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/TaskProduct%231/ClassHub.md)
+1. **[Product Description](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Resources%20%26%20Assets)**  
+   - [ClassHub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/ClassHub.md)
+   - [Documentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/Documentation.md)
+   - [Feasibility and business problem satement](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/Feasibility%20and%20business%20problem%20satement.md)
 
 
-2. **[Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Request%232)**  
-   - [Functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Functional%20requirements.md)
-   - [Non functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Non%20functional%20requirements.md)
-   - [Prioritization](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Prioritization.md)
-   - [Use case diagram](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Request%232/Use%20case%20diagram.md)
+2. **[Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Request%232)**  
+   - [Functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Request%232/Functional%20requirements.md)
+   - [Non functional requirements](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Request%232/Non%20functional%20requirements.md)
+   - [Prioritization](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Request%232/Prioritization.md)
+   - [Use case diagram](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Request%232/Use%20case%20diagram.md)
+   - [DoD](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Request%232/DoD%20english.md)
+   - [User Stories with Metrics](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Request%232/User%20Stories%20with%20Metrics.md)
      
-3. **[Process Organization](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Trial%233)**  
-   - [Blog](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Blog.md)
-   - [Process](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_Trial%233/Process.md)
+3. **[Process Organization](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Trial%233)**  
+   - [Blog](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Trial%233/Blog.md)
+   - [Process](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Trial%233/Process.md)
      
 4. **[Preview Presentation](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_PA%234)**  
-   - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Task_PA%234/Video%20presentation.md)
+   - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_PA%234/Video%20presentation%202.md)
 
-5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_Scope%235)**  
-   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%232_ProjectMA/Task_Scope%235/GenericCompetences.md)
-   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%232_ProjectMA/Task_Scope%235/SpecificCompetencies.md)
+5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Scope%235)**  
+   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/GenericCompetences.md)
+   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/SpecificCompetencies.md)
+  
+6. **[Design](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Design%236)**  
+   - [Documentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Design%236/Documentation.md)
+   - [Evolution](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Design%236/Evolution.md)
+  
 
+7. **[Evidence](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_evidence%237)**  
+   - [Test](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_evidence%237/Test)
+   - [Result Graphs](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_evidence%237/Test)
 
-6. **[Resources and Assets](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Resources%20%26%20Assets)**  
-   - [Classhub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Resources%20&%20Assets/Classhub.png)
-   - [Use Case Diagram](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Resources%20&%20Assets/Use%20Case%20Diagram.png)
-   - [User_Client](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%232_PB/Resources%20&%20Assets/User_Client.png)
 
 ## **Directories and Files**
 - **Task_Product#1**:  
