@@ -1,20 +1,45 @@
-# Specific Competencies 
-In our project, we are beginning to understand the importance of specific competencies, which are the specialized skills, knowledge, and attitudes required for effective performance in a particular field, profession, or area of expertise. These competencies are tailored to the unique demands and responsibilities of specific tasks or industries, distinguishing them from broader, more transferable competencies. Developing our specific competencies will enable us to excel in our respective domains, as they will be directly aligned with the technical and procedural aspects of our roles.
+### Unit I: Evolution of Software Engineering
 
-## Some key features we aim to develop in our specific competencies include:
+**Expected Competencies:**
 
--   **Technical proficiency**: We are working on mastering the tools, equipment, or technologies essential for our jobs. For instance, as aspiring software developers, we are starting to learn programming languages such as Python, Java, or C++. Those interested in engineering are exploring CAD software like AutoCAD or SolidWorks.
-    
--   **Domain-specific knowledge**: We seek to gain an in-depth understanding of the theories, principles, and practices that underpin our fields. For example, our financial analysts are beginning to grasp financial markets, risk assessment, and investment strategies, while our medical professionals are learning about anatomy, physiology, and diagnostic techniques.
-    
--   **Procedural know-how**: We are familiarizing ourselves with the specific methods and protocols necessary to perform tasks in our respective fields. Aspiring lawyers are starting to learn about legal research, case law, and courtroom procedures, while laboratory technicians are getting acquainted with scientific protocols, data analysis, and lab safety standards.
-    
--   **Industry regulations and standards**: We are becoming aware of the legal and regulatory frameworks that govern our fields. For instance, healthcare professionals in our group are learning about medical ethics and patient privacy laws like HIPAA in the United States, while those interested in construction are familiarizing themselves with building codes and safety regulations.
-    
--   **Problem-solving within a specialized context**: We are developing the ability to apply our knowledge and skills to resolve challenges specific to our disciplines. For instance, architects in our group are starting to learn how to address structural challenges in building design, while marketing strategists are beginning to analyze consumer data to tailor targeted campaigns.
-    
--   **Role-specific soft skills**: While some soft skills, like communication, are considered generic, we recognize that certain soft skills become highly specialized within our fields. For example, project managers among us are beginning to develop leadership and team management skills, specifically within the context of project timelines, budgeting, and resource allocation.
-    
--   **Research and continuous learning**: Many of our professions will require ongoing education to keep up with advancements in our fields. Scientists in our group are learning about the latest experimental techniques and research methodologies, while cybersecurity enthusiasts are starting to explore emerging cyber threats and defense mechanisms.
-    
-These competencies are crucial for us as we strive to thrive in our specialized roles. By focusing on them, we aim to meet the technical, procedural, and regulatory demands of our future careers, laying the foundation for our professional growth and distinguishing ourselves in our fields.
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT (Information and Communication Technologies) in professional contexts.
+- Knowledge management and the ability to intervene in both personal and professional settings.
+
+**Project Achievements:** The team made significant progress in communication and idea-sharing, with notable improvements in writing requirements. However, precision in writing still needs refinement to prevent misunderstandings.
+
+----------
+
+### Unit II: Areas of Software Development
+
+**Expected Competencies:**
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+- Knowledge management and intervention skills applicable in personal and professional environments.
+- Responsible decision-making in both professional and personal practices.
+
+**Project Achievements:** The team demonstrated a strong commitment to collaborative learning through GitHub and GitBash, effectively using branch creation and pull request management to maintain organized development. They also structured a repository and used sprint planning to assign roles and tasks efficiently.
+
+----------
+
+### Unit III: Software Life Cycle
+
+**Expected Competencies:**
+
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+
+**Project Achievements:** In this unit, the team applied agile methodologies, enhancing their ability to adapt to changes quickly and improving efficiency in task assignments.
+
+----------
+
+### Unit IV: Software Quality Management
+
+**Expected Competencies:**
+- Effective oral and written communication skills in Spanish.
+- Responsible and appropriate use of ICT in professional contexts.
+- Knowledge management and intervention abilities in personal and professional settings.
+- Application of quality standards for project review and evaluation.
+
+**Project Achievements:** The team did not achieve a basic quality standard in software due to varying approaches taken by team members who prioritized other high-importance areas. This focus delayed the adoption of any specific methodology for software quality.
+
