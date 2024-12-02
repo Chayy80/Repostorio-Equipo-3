@@ -53,6 +53,10 @@ ______________________
 3. **NFR03:** Consistent user interface. --> [2.0]
 4. **NFR04:** Portability. --> [1.0]
 5. **NFR05:** Visual design. --> [3.0]
+6. **NFR07:** Navigation clarity. --> [2.0]
+7. **NFR07:** Functionalities meeting. --> [2.0]
+8. **NFR08:** Understanding icons and texts. --> [3.0]
+
 
 ______________________
 
