@@ -46,6 +46,6 @@
   - **Description**: Registration and modification of subjects in the schedule.
   - **Justification**: Facilitates academic organization.
  
-  - **Scheduling Activities on a Board-Like**
-- **Description**: Allows users to organize and plan activities visually on a board-like interface.
-- **Justification**: Simplifies task management and enhances productivity by providing a clear and structured overview of activities.
+- **Scheduling Activities on a Board-Like**
+  - **Description**: Allows users to organize and plan activities visually on a board-like interface.
+  - **Justification**: Simplifies task management and enhances productivity by providing a clear and structured overview of activities.
