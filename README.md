@@ -20,6 +20,8 @@ To develop a technological solution that allows students and tutors to interact 
    - [ClassHub](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/ClassHub.md)
    - [Documentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/Documentation.md)
    - [Feasibility and business problem satement](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/Feasibility%20and%20business%20problem%20satement.md)
+   - [Updates](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/TaskProduct%231/Updates.md)
+ 
 
 
 2. **[Functional and Non-Functional Requirements](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Request%232)**  
@@ -35,11 +37,16 @@ To develop a technological solution that allows students and tutors to interact 
    - [Process](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Trial%233/Process.md)
      
 4. **[Preview Presentation](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS%231_PB_NICO/Task_PA%234)**  
-   - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_PA%234/Video%20presentation%202.md)
+   - [Video presentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_PA%234/Video%20presentation%203.md)
 
 5. **[Generic and Specific Competencies](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Scope%235)**  
-   - [GenericCompetences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/GenericCompetences.md)
-   - [SpecificCompetencies](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/SpecificCompetencies.md)
+   - [Generic Competences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/GenericCompetences.md)
+   - [Specific Competences](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/SpecificCompetencies.md)
+
+
+   - [Constructive critique](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Scope%235/Constructive%20critique.md)
+
+-
   
 6. **[Design](https://github.com/Chayy80/Repostorio-Equipo-3/tree/FIS_%233_ProjectMA/Task_Design%236)**  
    - [Documentation](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS_%233_ProjectMA/Task_Design%236/Documentation.md)
