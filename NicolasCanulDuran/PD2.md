@@ -9,7 +9,7 @@ David Jesus Novelo Ontiveros
 "Como estudiante quiero saber mi malla curricular para estar pendiente de las materias que cargaré"
 
 ### Criterios de aceptación
-Criterios de adaptación
+-Criterios de adaptación
 -Debe estar la malla curricular en la plataforma
 -Debe poder accesar el usuario a la plataforma
 
