@@ -10,10 +10,9 @@ David Jesus Novelo Ontiveros
 
 ### Criterios de aceptación
 
--Criterios de adaptación
--Debe estar la malla curricular en la plataforma
--Debe poder accesar el usuario a la plataforma
-
+- Debe estar la malla curricular en la plataforma
+ - Debe poder accesar el usuario a la plataforma
+   
 # Correcciones
 ### Requimiento Funcional
 
