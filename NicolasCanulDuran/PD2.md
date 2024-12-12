@@ -15,18 +15,22 @@ David Jesus Novelo Ontiveros
    
 # Correcciones
 ### Requimiento Funcional
+- Acceso directo a la malla curricular
+
+### Descripcion
+
+- El usuario podra accesar de manera directa a la malla curricular desde la pagina de incio a travez de un boton.
+- El boton lo redirrecionara con a la pagina oficial de la uady, mas concretamente, a la malla curricular de la licensiatura en ingeneria en software.
+
 
 
 ### Historia de  usuario
-Notificaciones:
-El estudiante desea recibir notificaciones centralizadas de todas sus aplicaciones académicas, con el fin de mantenerse actualizado sobre cualquier tarea pendiente o actualización.
-
+Yo como usuario, deseo tener un acceso directo a la malla curricular desde la página de inicio para facilitar la consulta de la información de manera más rápida y eficiente.
 
 ### Criterios de aceptación
 
  - El estudiante debe recibir notificaciones de todas las aplicaciones
    académicas en una única plataforma centralizada. 
-   
  - El estudiante debe    poder activar y desactivar notificaciones de
    aplicaciones    específicas.
  - El estudiante debe poder acceder a un historial de    notificaciones
