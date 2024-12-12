@@ -8,6 +8,11 @@ David Jesus Novelo Ontiveros
 ### Historia de  usuario
 "Como estudiante quiero saber mi malla curricular para estar pendiente de las materias que cargaré"
 
+## Evidencia
+
+![image](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%234_PB/Resources%20%26%20Assets/WhatsApp%20Image%202024-12-12%20at%204.34.01%20PM.jpeg)
+
+
 ### Criterios de aceptación
 
 - Debe estar la malla curricular en la plataforma
