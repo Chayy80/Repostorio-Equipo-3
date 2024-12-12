@@ -23,18 +23,14 @@ David Jesus Novelo Ontiveros
 - El boton lo redirrecionara con a la pagina oficial de la uady, mas concretamente, a la malla curricular de la licensiatura en ingeneria en software.
 
 
-
 ### Historia de  usuario
-Yo como usuario, deseo tener un acceso directo a la malla curricular desde la página de inicio para facilitar la consulta de la información de manera más rápida y eficiente.
+Yo como usuario, quiero tener un acceso directo a la malla curricular desde la página de inicio para facilitar la consulta de la información de manera más rápida y eficiente.
 
 ### Criterios de aceptación
 
- - El estudiante debe recibir notificaciones de todas las aplicaciones
-   académicas en una única plataforma centralizada. 
- - El estudiante debe    poder activar y desactivar notificaciones de
-   aplicaciones    específicas.
- - El estudiante debe poder acceder a un historial de    notificaciones
-   para revisar mensajes anteriores.
+ - El boton tiene que estar en la pagina de inicio. 
+ - El usuario puede accesar de manera directa a la malla curricular desde la pagina de inicio.
+
    
 # Wireframe
 
