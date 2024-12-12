@@ -13,14 +13,14 @@ David Jesus Novelo Ontiveros
 - Debe estar la malla curricular en la plataforma
  - Debe poder accesar el usuario a la plataforma
    
-# Correcciones
+# PD3 - CORRECIONES 
 ### Requimiento Funcional
 - Acceso directo a la malla curricular
 
 ### Descripcion
 
 - El usuario podra accesar de manera directa a la malla curricular desde la pagina de incio a travez de un boton.
-- El boton lo redirrecionara con a la pagina oficial de la uady, mas concretamente, a la malla curricular de la licensiatura en ingeneria en software.
+- El boton lo redirrecionara  a la pagina oficial de la uady, concretamente, a la malla curricular de la licenciatura en ingeneria en software.
 
 
 ### Historia de  usuario
@@ -28,10 +28,17 @@ Yo como usuario, quiero tener un acceso directo a la malla curricular desde la p
 
 ### Criterios de aceptación
 
- - El boton tiene que estar en la pagina de inicio. 
- - El usuario puede accesar de manera directa a la malla curricular desde la pagina de inicio.
+ - El requerimiento funcional cuenta con una descripcion. 
+ - El requerimiento funcional cuenta con una historia de usuario
+ - El requerimiento funcional cuenta con un prototipo.
 
    
 # Wireframe
+# Antes
+![image](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%234_PB/Resources%20%26%20Assets/imagen_2024-12-12_154220936.png)
 
-![image](https://github.com/user-attachments/assets/4392818a-a25d-4cbd-867b-6c0092bc7eb5)
+# Despues
+![image](https://github.com/Chayy80/Repostorio-Equipo-3/blob/FIS%234_PB/Resources%20%26%20Assets/imagen_2024-12-12_161611001.png)
+
+### Prototipo
+https://www.figma.com/proto/TbCPHRYyyYwHrXRfSbWaC3/Untitled?node-id=8-48&node-type=frame&t=7HCEgSbkGgIpXBBk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A48
